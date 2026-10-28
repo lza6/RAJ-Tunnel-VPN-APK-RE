@@ -1,0 +1,474 @@
+{
+ "note": "外部样本：仅用于验证测活/压测链路，不属于 RAJ Tunnel VPN",
+ "nodes": [
+  {
+   "group": "sample",
+   "name": "ALIBABA SERVER 1️⃣",
+   "host": "gcp-proxy-494131730409.us-central1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "ALIBABA SERVER 2️⃣",
+   "host": "gcp1-proxy-494131730409.us-central1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 01",
+   "host": "atnet3-507168703375.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 02",
+   "host": "atnet4-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 03",
+   "host": "atnetmx-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 04",
+   "host": "atnetapps-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 05",
+   "host": "aatnet2-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 06",
+   "host": "atnet3-507168703375.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 07",
+   "host": "atnet4-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 08",
+   "host": "reg1-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 09",
+   "host": "regt1-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 10",
+   "host": "reg2-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER GCP VIP 11",
+   "host": "reg3-507168703375.europe-west1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 1️⃣",
+   "host": "shegeftihaaa.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 2️⃣",
+   "host": "server2.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 3️⃣",
+   "host": "server3.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 4️⃣",
+   "host": "server4.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 5️⃣",
+   "host": "server5.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 6️⃣",
+   "host": "server6.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 7️⃣",
+   "host": "server7.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 8️⃣",
+   "host": "server8.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 9️⃣",
+   "host": "server9.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Worker Dynamic Server 🔟",
+   "host": "server10.bshield.dns.army",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT WORKER 01",
+   "host": "sidiv2.beevpn.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT WORKER 02",
+   "host": "mludp.mludpdnsvip.top",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT SERVER  1️⃣🟢",
+   "host": "db2rgy7uiv0xf.cloudfront.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT SERVER  2️⃣🟢",
+   "host": "dbw3o60efbdu1.cloudfront.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT SERVER  3️⃣🟢",
+   "host": "d3vn202j4twpk9.cloudfront.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT SERVER  4️⃣🟢",
+   "host": "d3p01qnwfbh9lw.cloudfront.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "CLOUDFRONT SERVER  5️⃣🟢",
+   "host": "d2kk5t4dwxhjmp.cloudfront.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 1️⃣",
+   "host": "ssh-8413.jezvpn.xyz;ssh-8413.jezvpn.xyz",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 2️⃣",
+   "host": "at.guruzfreenet.online",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 3️⃣",
+   "host": "us.guruzfreenet.online",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 4️⃣",
+   "host": "de.guruzfreenet.online",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 5️⃣ Copy",
+   "host": "gEddx",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco INWI/IAM SSH 🎄🎄🎄",
+   "host": "ca.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 1️⃣",
+   "host": "mcappsv1.mcnetvpn.store;mcappsv12.mcnetvpn.store",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 2️⃣",
+   "host": "7s.arifvai.ggff.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 3️⃣",
+   "host": "zxrte.regtunnel.xyz;atcgft.regtunnel.xyz;1239292.regtunnel.xyz;faxfey.regtunnel.xyz",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 4️⃣",
+   "host": "dg94.raseedsk.uk;dg95.raseedsk.uk;dg96.raseedsk.uk;dg97.raseedsk.uk;dg98.raseedsk.uk;dg99.raseedsk.uk;dg100.raseedsk.uk;ee10.raseedsk.uk;gg1.raseedsk.uk;gg2.raseedsk.uk;gg3.raseedsk.uk;gg4.raseedsk.uk;gg5.raseedsk.uk;gg6.raseedsk.uk;gg7.raseedsk.uk;gg8.raseedsk.uk;gg9.raseedsk.uk;gg10.raseedsk.uk;gg12.raseedsk.uk;gg35.raseedsk.uk;gg41.raseedsk.uk;gg42.raseedsk.uk;gg43.raseedsk.uk;gg44.raseedsk.uk;gg45.raseedsk.uk;gg46.raseedsk.uk;gg47.raseedsk.uk;gg48.raseedsk.uk;gg49.raseedsk.uk;gg50.raseedsk.uk;gg51.raseedsk.uk;gg52.raseedsk.uk;gg53.raseedsk.uk;gg54.raseedsk.uk;gg55.raseedsk.uk;gg56.raseedsk.uk;gg57.raseedsk.uk;gg58.raseedsk.uk;gg59.raseedsk.uk;gg60.raseedsk.uk;gg61.raseedsk.uk;gg62.raseedsk.uk;gg63.raseedsk.uk;gg64.raseedsk.uk;gg65.raseedsk.uk;gg66.raseedsk.uk;gg67.raseedsk.uk;gg68.raseedsk.uk;gg69.raseedsk.uk;gg70.raseedsk.uk;dd79.raseedsk.uk;dd80.raseedsk.uk;dd81.raseedsk.uk;dd82.raseedsk.uk;dd83.raseedsk.uk;dd84.raseedsk.uk",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 5️⃣",
+   "host": "7s.arifvai.ggff.net",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 6️⃣",
+   "host": "mcappsv1.mcnetvpn.store;mcappsv12.mcnetvpn.store",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM 7️⃣",
+   "host": "mcappsv1.mcnetvpn.store;mcappsv12.mcnetvpn.store",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM #️⃣#️⃣",
+   "host": "pti.miproxyvpn.online",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM #️⃣💯💤",
+   "host": "kiti-01.dertunnel.xyz",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "SERVER PREMIUM #️⃣🙏🙏",
+   "host": "Eid.atifpkdev.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP #️⃣✴️✴️✴️",
+   "host": "65.108.245.200",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP #️⃣",
+   "host": "84.46.251.210",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 0️⃣",
+   "host": "172.104.240.194",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 1️⃣",
+   "host": "fudp1.focusapps.site;fudp2.focusapps.site;fudp3.focusapps.site;fudp4.focusapps.site",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 2️⃣",
+   "host": "94.16.104.117",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 3️⃣",
+   "host": "102.208.216.184",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 4️⃣",
+   "host": "62.238.16.144",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER VIP 5️⃣",
+   "host": "74.115.172.176",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 1️⃣",
+   "host": "dns2.orisselab.online",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 2️⃣",
+   "host": "ns.abw.90netvpnn.dpdns.org",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 3️⃣",
+   "host": "ns-ca.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 4️⃣",
+   "host": "ns-at.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 5️⃣",
+   "host": "ns-nl.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 6️⃣",
+   "host": "ns-de.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "PREMIUM SERVER DNSTT 6️⃣6️⃣",
+   "host": "ns-ep.guruzgh.shop",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "ETHIOPIA TELECOM 01",
+   "host": "server1-168983650150.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "ETHIOPIA TELECOM 02",
+   "host": "server1-168983650150.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "ETHIOPIA TELECOM 03",
+   "host": "server1-168983650150.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "ETHIOPIA TELECOM 04",
+   "host": "server1-168983650150.europe-southwest1.run.app",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco IAM IP 100 ⚡️⚡️1️⃣",
+   "host": "vps.groupjgm.es",
+   "port": "443",
+   "ssl_port": "443"
+  },
+  {
+   "group": "sample",
+   "name": "Morocco IAM IP 100 ⚡️⚡️2️⃣",
+   "host": "ssh.groupjgm.es",
+   "port": "443",
+   "ssl_port": "443"
+  }
+ ]
+}

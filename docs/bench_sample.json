@@ -1,0 +1,1 @@
+{"attempts": 201, "alive": 75, "dead": 126, "alive_rate": 37.3, "p50_ms": 71.0, "p95_ms": 261.9, "p99_ms": 275.5, "min_ms": 41.5, "max_ms": 317.0, "avg_ms": 130.5, "elapsed_s": 7.04, "conn_per_s": 10.7}

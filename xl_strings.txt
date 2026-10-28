@@ -1,0 +1,1221 @@
+-19296359748462		RAJTunnelVPNMain.java
+-42764061053806		RAJTunnelVPNMain.java
+-42987399353198		RAJTunnelVPNMain.java
+-42991694320494		RAJTunnelVPNMain.java
+-42995989287790		RAJTunnelVPNMain.java
+-43000284255086		RAJTunnelVPNMain.java
+-42811305694062		RAJTunnelVPNMain.java
+-111852904977262		RAJTunnelVPNMain.java
+-111994638898030		RAJTunnelVPNMain.java
+-112290991641454		RAJTunnelVPNMain.java
+-112428430594926		RAJTunnelVPNMain.java
+-113953143985006		RAJTunnelVPNMain.java
+-92967933776750		RenzOpenVPNservice.java
+-75710755181422		RenzOpenVPNservice.java
+-93680898347886		RenzOpenVPNservice.java
+-94578546512750		RenzOpenVPNservice.java
+-94647265989486		RenzOpenVPNservice.java
+-94690215662446		RenzOpenVPNservice.java
+-94741755269998		RenzOpenVPNservice.java
+-94810474746734		RenzOpenVPNservice.java
+-94840539517806		RenzOpenVPNservice.java
+-83549070496622		RenzOpenVPNservice.java
+-69032081036142		RenzInjectorService.java
+-109739781067630		RenzInjectorService.java
+-67786540520302		RenzInjectorService.java
+-109275924599662		RenzInjectorService.java
+-34822666523502		bp0.java
+-34826961490798		bp0.java
+-19300654715758		bh0.java
+-110783458120558		gg.java
+-114520079668078		gg.java
+-113360438498158		gg.java
+-114249496728430		gg.java
+-113536532157294		gg.java
+-108172118004590		gg.java
+-109215795057518		gg.java
+-109327464207214		gg.java
+-108962391987054		gg.java
+-108356801598318		gg.java
+-109172845384558		gg.java
+-114365460845422		ps.java,zj.java
+-72120162521966		z91.java
+-70642693772142		z91.java
+-113119920329582		z91.java
+-136424412877678		za1.java
+-135659908698990		za1.java
+-135896131900270		za1.java
+-136012096017262		za1.java
+-114399820583790		zj.java
+-68791562867566	
+	RenzInjectorService.java
+-68297641628526	
+	RenzInjectorService.java
+-68426490647406	
+	RenzInjectorService.java
+-68933296788334	
+	RenzInjectorService.java
+-68379246007150	
+	RenzInjectorService.java
+-68740023260014		RenzInjectorService.java
+-68267576857454		RenzInjectorService.java
+-68405015810926		RenzInjectorService.java
+-68860282344302	
+	RenzInjectorService.java
+-66888892355438	
+	RenzInjectorService.java
+-67790835487598	
+	RenzInjectorService.java
+-68336296334190	
+	RenzInjectorService.java
+-67803720389486	 	RenzInjectorService.java
+-136763715294062	 	za1.java
+-135780167783278	 	za1.java
+-135827412423534	 	za1.java
+-136003506082670	 	za1.java
+-42789830857582	 (↑)	RAJTunnelVPNMain.java
+-42768356021102	 (↓)	RAJTunnelVPNMain.java
+-74065782707054	 info='%s'	RenzOpenVPNservice.java
+-74113027347310	 trans=%s	RenzOpenVPNservice.java
+-136785190130542	"	za1.java
+-28182647083886	#.##	RAJTunnelVPNMain.java
+-42579377460078	#FF0000	RAJTunnelVPNMain.java
+-42708226478958	%.0f	RAJTunnelVPNMain.java
+-91335846204270	%.0f	RenzOpenVPNservice.java
+-42729701315438	%.2f %s	RAJTunnelVPNMain.java
+-91357321040750	%.2f %s	RenzOpenVPNservice.java
+-56516546335598	%02d:%02d:%02d	RAJTunnelVPNTimeManager.java
+-9052862747502	%02d:%02d:%02d	RAJTunnelVPNMain.java
+-34831256458094	%02d:%02d:%02d	RAJTunnelVPNMain.java
+-56580970845038	%02ds	RAJTunnelVPNTimeManager.java
+-32962945684334	%02ds	sp0.java
+-74052897805166	%s	RenzOpenVPNservice.java
+-23196190053230	%s	mq0.java
+-23209074955118	%s	mq0.java
+-41393966486382	%s : %s	RAJTunnelVPNMain.java
+-85297122186094	%s : %s	RenzOpenVPNservice.java
+-84820380816238	%s : %s	RenzOpenVPNservice.java
+-56885913523054	%s @%s %s -pkg %s	ps.java
+-73451602383726	%s/%b/%b	RenzOpenVPNservice.java
+-77012130272110	%s/%s	RenzOpenVPNservice.java
+-86413813683054	%s/%s	RenzOpenVPNservice.java
+-86439583486830	%s/%s	RenzOpenVPNservice.java
+-83819653436270	%s/%s	z91.java
+-69646261359470	%s: %s	RenzInjectorService.java
+-69676326130542	%s: %s	RenzInjectorService.java
+-54652530529134	%s: %s	f0.java
+-54742724842350	%s: %s	fi.java
+-57147906528110	%s:%s	z91.java
+-57457144173422	%s:%s	z91.java
+-22599189599086	&score=	iq0.java
+-6570371650414	' intent=	OpenVPNRebootReceiver.java
+-66678438957934	(SNI) Host: 	RenzInjectorService.java
+-110345371456366	*	gg.java
+-24415960765294	*/*	pq0.java
+-77037900075886	,	RenzOpenVPNservice.java
+-57976835216238	-----BEGIN CERTIFICATE-----
+MIIDizCCAnOgAwIBAgIUGxLl5Ou4dR1h3c9lUcaM5bp4ZBswDQYJKoZIhvcNAQEL
+BQAwVTELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkdEMQswCQYDVQQHDAJTWjEUMBIG
+A1UECgwLWklWUE4sIEluYy4xFjAUBgNVBAMMDVpJVlBOIFJvb3QgQ0EwHhcNMjMw
+MjExMDkwMjM1WhcNMzMwMjA4MDkwMjM1WjBVMQswCQYDVQQGEwJDTjELMAkGA1UE
+CAwCR0QxCzAJBgNVBAcMAlNaMRQwEgYDVQQKDAtaSVZQTiwgSW5jLjEWMBQGA1UE
+AwwNWklWUE4gUm9vdCBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMQsHTq2UD4WDOvNUFGQuKd0PEitgQzSh12qH9aJ5jnCtbWjqVNDRQSW0ietg4Po
+qOfKLOBvGOJcGkrYlAAynnwsufdkZd2Jj2+FAXloAbMBK5cjqRANfPJ7ns3S5zL2
+t2+Xv/O6H58NL5QksyIHb2Vcosfelwuvj5Lq+MvyqGZikce5IaykgjjV0OsrBnsC
+eK4yAeoxsqVixGwmcJDLGOIJDGYcDdaElqJqFCyOjOhLLDymx9JbeOb3DpiRNFNN
+lwXi2rfvpnmpGNwNt9sclWAQTL3cfV4GsCovT02r1qxcAqqRE4U1nqMRqk0KfyQn
+UebOat/0jNJI9YxJByuVBK0CAwEAAaNTMFEwHQYDVR0OBBYEFGk91bjhFZfcKkpm
+5SxVkqnSGhXBMB8GA1UdIwQYMBaAFGk91bjhFZfcKkpm5SxVkqnSGhXBMA8GA1Ud
+EwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAEr4aeE0ib5/7neEcRWCE1pg
+w0j/958bdaSdQJJvYEpc7brCHhp5lmNJA+MjVcCXCL4/8KfuEcyGNPPSPo7wbuYJ
+O9jsJmQOklfyvlKGJschvc8AZ0E0AGdrgGam1KApjrb6Xly5bqgV4KPBQ7KttBVw
+wFfTm0yjD3nAjaSXi3I/MG+gMGnUXoTMZa3iS2pomBMHLdTksiujbbH7RP9mzPT3
+7UvyVmtw7eQFEjEYceVWHlhXCjL9gpcJiX/wu9XzREDpNCqY2R3zb+ZGYuQD0L5h
+zv0u1CF+Cfkkg8luxol+aWc+1ac/8TGLV1WOGj4FuEMfxQPXWFqhc8VEyxZ/r/w=
+-----END CERTIFICATE-----	z91.java
+-95373115462510	-----BEGIN CERTIFICATE-----%n%s-----END CERTIFICATE-----%n	RenzOpenVPNservice.java
+-63603242373998	--config	z91.java
+-135647023797102	-9	za1.java
+-84489668334446	.CONTENT	RenzOpenVPNservice.java
+-84528323040110	.FILENAME	RenzOpenVPNservice.java
+-84571272713070	.MERGE	RenzOpenVPNservice.java
+-85988611920750	.NEW_PROFILE	RenzOpenVPNservice.java
+-8288358568814	.NEW_PROFILE	lq0.java
+-75246898713454	.OVPN	RenzOpenVPNservice.java
+-84330754544494	.PATH	RenzOpenVPNservice.java
+-87444605834094	.PROFILE	RenzOpenVPNservice.java
+-85589179962222	.PROFILE	RenzOpenVPNservice.java
+-85949957215086	.PROFILE	RenzOpenVPNservice.java
+-8249703863150	.PROFILE	lq0.java
+-87483260539758	.PROXY_NAME	RenzOpenVPNservice.java
+-87603519624046	.PROXY_PASSWORD	RenzOpenVPNservice.java
+-87672239100782	.PROXY_REMEMBER_CREDS	RenzOpenVPNservice.java
+-87534800147310	.PROXY_USERNAME	RenzOpenVPNservice.java
+-14224003371886	.RSA	gp0.java
+-16629185057646	.RSA	kp0.java
+-89098168243054	.STOP	RenzOpenVPNservice.java
+-136428707844974	.apk	za1.java
+-2288289256302	.mt	RAJTunnelVPNApplication.java
+-12776599393134	.mt	gp0.java
+-15181781078894	.mt	kp0.java
+-2271109387118	.np	RAJTunnelVPNApplication.java
+-12759419523950	.np	gp0.java
+-15164601209710	.np	kp0.java
+-75298438321006	.ovpn	RenzOpenVPNservice.java
+-75221128909678	.ovpn	RenzOpenVPNservice.java
+-66669849023342	/	RenzInjectorService.java
+-32292930786158	/META-INF/BNDLTOOL.RSA	RAJTunnelVPNMain.java
+-32194146538350	/META-INF/GOOGLEKE.RSA	RAJTunnelVPNMain.java
+-57298230383470	/zi.ca.crt	z91.java
+-78038627455854	0.0.0.0	RenzOpenVPNservice.java
+-83566250365806	0.0.0.0	z91.java
+-42815600661358	00:00:00	RAJTunnelVPNMain.java
+-57173676331886	1	z91.java
+-57190856201070	10	z91.java
+-42613737198446	127.0.0.1	RAJTunnelVPNMain.java
+-42536427787118	127.0.0.1	RAJTunnelVPNMain.java
+-89437470659438	127.0.0.1 	RenzOpenVPNservice.java
+-84133186048878	127.0.0.1:	z91.java
+-84180430689134	127.0.0.1:	z91.java
+-57233805874030	127.0.0.1:1080	z91.java
+-69354203583342	16384	RenzInjectorService.java
+-69302663975790	16384	RenzInjectorService.java
+-57203741102958	196608	z91.java
+-57182266266478	2	z91.java
+-83776703763310	224.0.0.0	z91.java
+-84227675329390	255.255.255.0	z91.java
+-137682838295406	3082025c308201c5a003020102020101300d06092a864886f70d01010b05003073310b3009060355040613025553311330110603550408130a43616c69666f726e6961311630140603550407130d4d6f756e7461696e20566965773110300e060355040b1307416e64726f696431133011060355040a130a476f6f676c6520496e633110300e06035504031307416e64726f69643020170d3139303833303036353630375a180f32313139303830363036353630375a3073310b3009060355040613025553311330110603550408130a43616c69666f726e6961311630140603550407130d4d6f756e7461696e20566965773110300e060355040b1307416e64726f696431133011060355040a130a476f6f676c6520496e633110300e06035504031307416e64726f696430819f300d06092a864886f70d010101050003818d0030818902818100bfbf93e80f014243a5577c44f5b0d77ad5fa7a3f1a02461cc97282594af62d5aa8333f9139891d50a4d3a941e29b01377d87aca9c750e0f0d70c78bc1f7bb81be081115a73f8109235dd1b1269f8322c4fe6575b9e7dcaa916abfff2f13b6a34285fe64e195f88f8203c66b17100eb1bb01131dbd9b39186dd1298ec1f942e3f0203010001300d06092a864886f70d01010b05000381810033a9f15f592fbdae2527ffea4b2b24bc40efb87fba3b72c499ec6322e1cf495f4903995a4ec7a364a9491f5d1602ae4d096fca8adeb253eeafa7f8a38f437d2b17cf7af129343172eb1f40918d85b6466227330a7a4b7ef6b8cf79b25b73fc3a289008d6f2678b3069c81381bc9201d95149b9fc2d212836a1ca096522cae9a3	za1.java
+-69379973387118	32768	RenzInjectorService.java
+-69328433779566	32768	RenzInjectorService.java
+-109005341660014	443	gg.java
+-109061176234862	443	gg.java
+-66661259088750	:	RenzInjectorService.java
+-67812310324078	:	RenzInjectorService.java
+-84287804871534	:	z91.java
+-57070597116782	:20000-50000	z91.java
+-136746535424878	<	za1.java
+-136802369999726	</	za1.java
+-103224315679598	</strong>	qv0.java
+-63835170607982	<b>Injector Service Start</b>	RenzInjectorService.java
+-63985494463342	<b>InjectorService Stopped</b>	RenzInjectorService.java
+-65067826221934	<b>Status<b/>: %s	RenzInjectorService.java
+-83939912520558	<b>Tun2Socks Running</b>	z91.java
+-70316276257646	<font color='#FF7F27'><strong>You are ready to go</strong></font>	z91.java
+-70011333579630	<font color='green'><strong>UDP Connected Successfully</strong></font>	z91.java
+-71291233833838	<font color='red'><strong>Please wait reconnecting UDP</strong></font>	z91.java
+-70762952856430	<font color='red'><strong>UDP connection Lost</strong></font>	z91.java
+-103185660973934	<strong>	qv0.java
+-104057539335022	<strong><html><font color="#FF3D00">Disconnected</strong>	SSHVPNService.java
+-136772305228654	="	za1.java
+-136793780065134	>	za1.java
+-136815254901614	>	za1.java
+-136755125359470	@	za1.java
+-102799113917294	ACTION_CONNECT_UDP_TUNNEL	RenzOpenVPNservice.java
+-82114551419758	ACTION_CONNECT_UDP_TUNNEL	RenzOpenVPNservice.java
+-97795477017454	ADD_ROUTES	RenzOpenVPNservice.java
+-129101493637998	ADS_MANAGER_INTERVAL_TIME	AdsManagerActivity.java
+-128989824488302	ADS_MANAGER_INTERVAL_TIME	n51.java
+-97752527344494	ASSIGN_IP	RenzOpenVPNservice.java
+-97941505905518	AUTH_FAILED	RenzOpenVPNservice.java
+-72068622914414	AUTH_FAILED	z91.java
+-3881722123118	Add Time	b.java
+-83845423240046	Adding Routes Error: 	z91.java
+-55086322226030	Ads failed to load	RAJTunnelVPNTimeManager.java
+-17153171067758	Ads failed to load	RAJTunnelVPNMain.java
+-17234775446382	Ads failed to load	RAJTunnelVPNMain.java
+-56357632545646	Ads is loading	RAJTunnelVPNTimeManager.java
+-33117564506990	Ads is loading	RAJTunnelVPNMain.java
+-32855571501934	Ads is loading	op0.java
+-23754535801710	Already Updated!	pq0.java
+-32632233202542	App Error	RAJTunnelVPNMain.java
+-127920706414	AppOpenAdManager	RAJTunnelVPNApplication.java
+-3366654830	AppOpenAdManager	RAJTunnelVPNApplication.java
+-282539529070	AppOpenAdManager	RAJTunnelVPNApplication.java
+-492992926574	AppOpenAdManager	RAJTunnelVPNApplication.java
+-720626193262	AppOpenAdManager	RAJTunnelVPNApplication.java
+-1498015273838	AppOpenAdManager	RAJTunnelVPNApplication.java
+-918194688878	AppOpenAdManager	RAJTunnelVPNApplication.java
+-1145827955566	AppOpenAdManager	RAJTunnelVPNApplication.java
+-1364871287662	AppOpenAdManager	RAJTunnelVPNApplication.java
+-142909813494638	App_dex	za1.java
+-136286973924206	App_dex	za1.java
+-44293069411182	Are you sure you want to clear all data associated with RAJ Tunnel VPN? This action will reset all settings, including preferences, and app configurations. Please note that clearing data will log you out of the app and remove any saved information.	pq0.java
+-103640927507310	Authenticate password done	SSHVPNService.java
+-103756891624302	Authentication failed	SSHVPNService.java
+-34612213125998	Auto	RAJTunnelVPNMain.java
+-34710997373806	Auto	RAJTunnelVPNMain.java
+-111062630994798	AutoReplace	gg.java
+-14245478208366	BNDLTOOL.RSA	gp0.java
+-16650659894126	BNDLTOOL.RSA	kp0.java
+-77475986740078	BUILDER: add_address %s/%d %s ipv6=%b net30=%b	RenzOpenVPNservice.java
+-78944865555310	BUILDER: add_dns_server %s ipv6=%b	RenzOpenVPNservice.java
+-78231900984174	BUILDER: add_route %s/%d ipv6=%b	RenzOpenVPNservice.java
+-79275578037102	BUILDER: add_search_domain %s	RenzOpenVPNservice.java
+-80147456398190	BUILDER: establish	RenzOpenVPNservice.java
+-78532548694894	BUILDER: exclude_route %s/%d ipv6=%b (NOT IMPLEMENTED)	RenzOpenVPNservice.java
+-77845353927534	BUILDER: reroute_gw ipv4=%b ipv6=%b flags=%d	RenzOpenVPNservice.java
+-79597700584302	BUILDER: set_mtu %d	RenzOpenVPNservice.java
+-77110914519918	BUILDER: set_remote_address %s ipv6=%b	RenzOpenVPNservice.java
+-79833923785582	BUILDER: set_session_name %s	RenzOpenVPNservice.java
+-80387974566766	BUILDER: teardown disconnect=%b	RenzOpenVPNservice.java
+-80680032342894	BUILDER_ERROR: %s %s	RenzOpenVPNservice.java
+-9164531897198	CAN_SELECT_DIR	RAJTunnelVPNMain.java
+-98070354924398	CERT_VERIFY_FAIL	RenzOpenVPNservice.java
+-51293866103662	CLI: app is already authorized as VPN actor	RAJTunnelVPNMain.java
+-42454823408494	CLI: autostart: %s	RAJTunnelVPNMain.java
+-51925226296174	CLI: onCreateContextMenu	RAJTunnelVPNMain.java
+-42115520992110	CLI: onDestroy called	RAJTunnelVPNMain.java
+-40715361653614	CLI: onNewIntent intent=%s	RAJTunnelVPNMain.java
+-41999556875118	CLI: onStart	RAJTunnelVPNMain.java
+-41763333673838	CLI: onStop	RAJTunnelVPNMain.java
+-50860074406766	CLI: requesting VPN actor rights	RAJTunnelVPNMain.java
+-51061937869678	CLI: requesting VPN actor rights failed	RAJTunnelVPNMain.java
+-6445817598830	CLIBASE: autostart profile='	OpenVPNRebootReceiver.java
+-4259679245166	CLIBASE: doUnbindService	b.java
+-2833750102894	CLIBASE: onServiceConnected: 	b.java
+-3039908533102	CLIBASE: onServiceDisconnected	b.java
+-6931148903278	CLIBASE: submitDisconnectIntent	b.java
+-99762572039022	CLIENT_HALT	RenzOpenVPNservice.java
+-99814111646574	CLIENT_RESTART	RenzOpenVPNservice.java
+-98590045967214	CONFIG_FILE_PARSE_ERROR	RenzOpenVPNservice.java
+-90360888628078	CONFIG_FILE_PARSE_ERROR	RenzOpenVPNservice.java
+-97842721657710	CONNECTED	RenzOpenVPNservice.java
+-70599744099182	CONNECTED	z91.java
+-97658038063982	CONNECTING	RenzOpenVPNservice.java
+-83501825856366	CONNECTING	RenzOpenVPNservice.java
+-98817679233902	CONNECTION_TIMEOUT	RenzOpenVPNservice.java
+-96760389899118	CORE_THREAD_ABANDONED	RenzOpenVPNservice.java
+-96932188590958	CORE_THREAD_ABANDONED	RenzOpenVPNservice.java
+-99668082758510	CORE_THREAD_ABANDONED	RenzOpenVPNservice.java
+-99418974655342	CORE_THREAD_ACTIVE	RenzOpenVPNservice.java
+-91108212937582	CORE_THREAD_ACTIVE	RenzOpenVPNservice.java
+-96854879179630	CORE_THREAD_ERROR	RenzOpenVPNservice.java
+-99590773347182	CORE_THREAD_ERROR	RenzOpenVPNservice.java
+-97026677871470	CORE_THREAD_INACTIVE	RenzOpenVPNservice.java
+-99500579033966	CORE_THREAD_INACTIVE	RenzOpenVPNservice.java
+-98766139626350	CREDS_ERROR	RenzOpenVPNservice.java
+-90536982287214	CREDS_ERROR	RenzOpenVPNservice.java
+-111616681775982	CUSTOM_PAYLOAD_ENABLE	gg.java
+-111711171056494	CUSTOM_PAYLOAD_ENABLE	gg.java
+-111904444584814	CUSTOM_PAYLOAD_INPUT	RAJTunnelVPNMain.java
+-111998933865326	CUSTOM_PAYLOAD_INPUT	gg.java
+-112235157066606	CUSTOM_PROXY	RAJTunnelVPNMain.java
+-112295286608750	CUSTOM_PROXY	gg.java
+-112351121183598	CUSTOM_PROXY_PORT	RAJTunnelVPNMain.java
+-112432725562222	CUSTOM_PROXY_PORT	gg.java
+-111805660337006	CUSTOM_SNI	RAJTunnelVPNMain.java
+-111857199944558	CUSTOM_SNI	gg.java
+-111535077397358	CUSTOM_TUNNEL_TYPE	RAJTunnelVPNMain.java
+-111453473018734	CUSTOM_TUNNEL_TYPE	gg.java
+-112162142622574	CUSTOM_WS_ENABLE	gg.java
+-3920376828782	Cancel	b.java
+-45409760908142	Cancel	pq0.java
+-27546991924078	Cancel	pq0.java
+-135836002358126	Cannot kill: 	za1.java
+-11647022994286	Checking Updates	cp0.java
+-24188327498606	Checking Updates..	pq0.java
+-20614914708334	Checking Updates...	c.java
+-22457455678318	Checking...	gq0.java
+-44245824770926	Clear Data	pq0.java
+-45362516267886	Clear Data	pq0.java
+-27473977480046	Clipboard Update	pq0.java
+-24433140634478	Clipboard Update: Encrypted Configuration Required	pq0.java
+-23380873646958	Clipboard is empty!	pq0.java
+-103877150708590	Closed due to user request	SSHVPNService.java
+-110723328578414	CloudfrontDNS	gg.java
+-110663199036270	CloudfrontDNS	gg.java
+-54970358109038	Come back after 	RAJTunnelVPNTimeManager.java
+-16994257277806	Come back again after 	sp0.java
+-14404391998318	Congrats! You are ready to roll!	jp0.java
+-29913518904174	Connect	pq0.java
+-16809573684078	Connected	lp0.java
+-71029240828782	Connection to server lost	z91.java
+-73490257089390	ConnectivityReceiver	RenzOpenVPNservice.java
+-21396598756206	Current IP: %s	dq0.java
+-35763264361326	Custom DNS	pq0.java
+-33280773264238	Custom Setup	RAJTunnelVPNMain.java
+-111294559228782	CustomCert	gg.java
+-114524374635374	CustomDNSTTResolver	RAJTunnelVPNMain.java
+-114434180322158	CustomDNSTTResolver	gg.java
+-113025431049070	CustomObfs	gg.java
+-113072675689326	CustomObfs	z91.java
+-112823567586158	CustomWSType	RAJTunnelVPNMain.java
+-112767733011310	CustomWSType	gg.java
+-83433106379630	DELETE_PROFILES	RenzOpenVPNservice.java
+-8893948957550	DISABLE_CLIENT_CERT	RAJTunnelVPNMain.java
+-90274989282158	DISABLE_CLIENT_CERT	RenzOpenVPNservice.java
+-97885671330670	DISCONNECTED	RenzOpenVPNservice.java
+-21306404442990	DNS Cannot be empty!	cq0.java
+-114146417513326	DNSResolver	gg.java
+-114197957120878	DNSResolver	gg.java
+-121460746818414	DNSTT	lk.java
+-98212088845166	DYNAMIC_CHALLENGE	RenzOpenVPNservice.java
+-24652183966574	Dear User,
+
+To ensure the security of your VPN connection, we require an encrypted configuration provided directly by us. This encrypted configuration guarantees the integrity and confidentiality of your data transmission.
+
+Here's what you need to do:
+
+1. Obtain the encrypted configuration from our official channels.
+2. Copy the encrypted configuration to your device's clipboard.
+3. Tap the "Clipboard Update" button below.
+Once you've completed these steps, our app will automatically detect the encrypted configuration and apply the update securely.
+
+Thank you for prioritizing your privacy and security with our VPN app.
+
+Best regards,
+RAJ Tunnel VPN	pq0.java
+-95690943042414	EPKI error in external_pki_cert_request	RenzOpenVPNservice.java
+-96348073038702	EPKI error in external_pki_sign_request	RenzOpenVPNservice.java
+-95862741734254	EPKI error in external_pki_sign_request: %s	RenzOpenVPNservice.java
+-96116144804718	EPKI: normal mode	RenzOpenVPNservice.java
+-99234291061614	EPKI_ERROR	RenzOpenVPNservice.java
+-99281535701870	EPKI_INVALID_ALIAS	RenzOpenVPNservice.java
+-94814769714030	EVENT	RenzOpenVPNservice.java
+-74009948132206	EVENT: %s	RenzOpenVPNservice.java
+-96584296239982	EXIT: connect() exited, err=%b, msg='%s'	RenzOpenVPNservice.java
+-112952416605038	EnableCustomObfs	z91.java
+-110353961390958	EnableWS	gg.java
+-110392616096622	EnableWS	gg.java
+-54485026804590	Error deleting old files	RAJTunnelVPNMain.java
+-3662678791022	Expired	b.java
+-94694510629742	FROM PROXY	RenzOpenVPNservice.java
+-71596176511854	Failed to parse client configuration	z91.java
+-56791424242542	FastDNS bin not found	ps.java
+-83686509450094	Forward DNS Disabled	z91.java
+-83600610104174	Forward DNS Enabled	z91.java
+-94552776708974	Frame	RenzOpenVPNservice.java
+-42669571773294	GB	RAJTunnelVPNMain.java
+-91297191498606	GB	RenzOpenVPNservice.java
+-97705282704238	GET_CONFIG	RenzOpenVPNservice.java
+-14301312783214	GOOGLEKE.RSA	gp0.java
+-16706494468974	GOOGLEKE.RSA	kp0.java
+-33336607839086	Getting dns address please wait...	RAJTunnelVPNMain.java
+-22835412800366	Google Play is not installed on your device.	iq0.java
+-80770226656110	HH:mm:ss.SSS	RenzOpenVPNservice.java
+-120868041331566	HTTP > DIRECT PAYLOAD	lk.java
+-120816501724014	HTTP DIRECT	lk.java
+-121276063224686	HTTP INJECT > WS	lk.java
+-120962530612078	HTTP PROXY > PAYLOAD	lk.java
+-65145135633262	HTTP/	RenzInjectorService.java
+-65828035433326	HTTP/1.1 200 Con	RenzInjectorService.java
+-69483052602222	HTTP/1.1 200 OK
+
+	RenzInjectorService.java
+-109220090024814	HTTP_PAYLOAD	RenzInjectorService.java
+-110040428778350	HTTP_PAYLOAD	gg.java
+-142944173233006	Hook_so	za1.java
+-136321333662574	Hook_so	za1.java
+-106432656249710	Hostkey fingerprint: 	SSHVPNService.java
+-98899283612526	INACTIVE_TIMEOUT	RenzOpenVPNservice.java
+-98972298056558	INFO	RenzOpenVPNservice.java
+-128929694946158	INTERVAL_TIME	RAJTunnelVPNTimeManager.java,qp0.java
+-128869565404014	INTERVAL_TIME	n51.java
+-129505220563822	IP: 	za1.java
+-129548170236782	IP: 0.0.0.0	za1.java
+-66549589939054	ISO-8859-1	RenzInjectorService.java
+-67086460851054	ISO-8859-1	RenzInjectorService.java
+-67271144444782	ISO-8859-1	RenzInjectorService.java
+-67455828038510	ISO-8859-1	RenzInjectorService.java
+-67670576403310	ISO-8859-1	RenzInjectorService.java
+-67623331763054	ISO-8859-1	RenzInjectorService.java
+-65020581581678	ISO-8859-1	RenzInjectorService.java
+-112583049417582	IS_DAFUALT_PROXY	RAJTunnelVPNMain.java
+-112510034973550	IS_DAFUALT_PROXY	RAJTunnelVPNMain.java
+-31051685237614	If you're looking for other features of our app you can click this icon.	pq0.java
+-34569263453038	Info	RAJTunnelVPNMain.java
+-66923252093806	Injecting	RenzInjectorService.java
+-69405743190894	InjectorException	RenzInjectorService.java
+-63770746098542	InjectorThread	RenzInjectorService.java
+-41011714397038	Invalid Account!	RAJTunnelVPNMain.java
+-19923424973678	Invalid Clicks!	fq0.java
+-16925537801070	Invalid Clicks!	np0.java
+-67846670062446	JX	RenzInjectorService.java
+-42695341577070	KB	RAJTunnelVPNMain.java
+-91322961302382	KB	RenzOpenVPNservice.java
+-106943757357934	LOCAL_PORT	SSHVPNService.java
+-69156635087726	Listening for incoming connection	RenzInjectorService.java
+-69044965938030	Listening to localport %s	RenzInjectorService.java
+-36424689324910	Load Networks: 	RAJTunnelVPNMain.java
+-42682456675182	MB	RAJTunnelVPNMain.java
+-91310076400494	MB	RenzOpenVPNservice.java
+-66111503274862	Malformed line sent by the server, the line does not end correctly.	RenzInjectorService.java
+-54351882818414	Malformed text	RAJTunnelVPNMain.java
+-31030210401134	Menu	pq0.java
+-98693125182318	NEED_CREDS_ERROR	RenzOpenVPNservice.java
+-90463967843182	NEED_CREDS_ERROR	RenzOpenVPNservice.java
+-108077628724078	NETWORK_SELECTED_NAME	gg.java
+-114253791695726	NSNameServer	gg.java
+-114309626270574	NSNameServer	ps.java,zj.java
+-50606671336302	Name	RAJTunnelVPNMain.java
+-36922905531246	Name	RAJTunnelVPNMain.java
+-36317315142510	Name	RAJTunnelVPNMain.java
+-36373149717358	Name	RAJTunnelVPNMain.java
+-51594513814382	Name	RAJTunnelVPNMain.java
+-34547788616558	Name	RAJTunnelVPNMain.java
+-34590738289518	Name	RAJTunnelVPNMain.java
+-34895680967534	Name	bp0.java
+-20189712946030	Name	z2.java
+-3984801338222	Networks	b.java
+-31725995103086	Networks/Payloads	pq0.java
+-40311634727790	No Update	RAJTunnelVPNMain.java
+-42854255367022	OKB	RAJTunnelVPNMain.java
+-42871435236206	OKB	RAJTunnelVPNMain.java
+-41084728841070	OPEN_URL:	RAJTunnelVPNMain.java
+-9293380916078	OPTION_ONE_CLICK_SELECT	RAJTunnelVPNMain.java
+-9396460131182	OPTION_PROMPT	RAJTunnelVPNMain.java
+-34689522537326	OVPN	RAJTunnelVPNMain.java
+-121486516622190	OVPN	a3.java
+-40642347209582	Ok	RAJTunnelVPNMain.java
+-17093041525614	OpenVPNClient	RAJTunnelVPNMain.java
+-17316379825006	OpenVPNClient	RAJTunnelVPNMain.java
+-21246274900846	OpenVPNClient	RAJTunnelVPNMain.java
+-21138900718446	OpenVPNClient	RAJTunnelVPNMain.java
+-54854393992046	OpenVPNClient	RAJTunnelVPNMain.java
+-51233736561518	OpenVPNClient	RAJTunnelVPNMain.java
+-50799944864622	OpenVPNClient	RAJTunnelVPNMain.java
+-51001808327534	OpenVPNClient	RAJTunnelVPNMain.java
+-42394693866350	OpenVPNClient	RAJTunnelVPNMain.java
+-51865096754030	OpenVPNClient	RAJTunnelVPNMain.java
+-42055391449966	OpenVPNClient	RAJTunnelVPNMain.java
+-40655232111470	OpenVPNClient	RAJTunnelVPNMain.java
+-41939427332974	OpenVPNClient	RAJTunnelVPNMain.java
+-41703204131694	OpenVPNClient	RAJTunnelVPNMain.java
+-54592400986990	OpenVPNClient	f0.java
+-54682595300206	OpenVPNClient	fi.java
+-17810301064046	OpenVPNClient	up0.java
+-17604142633838	OpenVPNClient	up0.java
+-17423754007406	OpenVPNClient	up0.java
+-6368508187502	OpenVPNClientBase	OpenVPNRebootReceiver.java
+-2756440691566	OpenVPNClientBase	b.java
+-2962599121774	OpenVPNClientBase	b.java
+-11569713582958	OpenVPNClientBase	b.java
+-6853839491950	OpenVPNClientBase	b.java
+-4182369833838	OpenVPNClientBase	b.java
+-74181746824046	OpenVPNService	RenzOpenVPNservice.java
+-75324208124782	OpenVPNService	RenzOpenVPNservice.java
+-75839604200302	OpenVPNService	RenzOpenVPNservice.java
+-76050057597806	OpenVPNService	RenzOpenVPNservice.java
+-76256216028014	OpenVPNService	RenzOpenVPNservice.java
+-80615607833454	OpenVPNService	RenzOpenVPNservice.java
+-77411562230638	OpenVPNService	RenzOpenVPNservice.java
+-78880441045870	OpenVPNService	RenzOpenVPNservice.java
+-78167476474734	OpenVPNService	RenzOpenVPNservice.java
+-79211153527662	OpenVPNService	RenzOpenVPNservice.java
+-80083031888750	OpenVPNService	RenzOpenVPNservice.java
+-78468124185454	OpenVPNService	RenzOpenVPNservice.java
+-77780929418094	OpenVPNService	RenzOpenVPNservice.java
+-79533276074862	OpenVPNService	RenzOpenVPNservice.java
+-77046490010478	OpenVPNService	RenzOpenVPNservice.java
+-79769499276142	OpenVPNService	RenzOpenVPNservice.java
+-80323550057326	OpenVPNService	RenzOpenVPNservice.java
+-102734689407854	OpenVPNService	RenzOpenVPNservice.java
+-91851242279790	OpenVPNService	RenzOpenVPNservice.java
+-96519871730542	OpenVPNService	RenzOpenVPNservice.java
+-97314440680302	OpenVPNService	RenzOpenVPNservice.java
+-95626518532974	OpenVPNService	RenzOpenVPNservice.java
+-96051720295278	OpenVPNService	RenzOpenVPNservice.java
+-96283648529262	OpenVPNService	RenzOpenVPNservice.java
+-92336573584238	OpenVPNService	RenzOpenVPNservice.java
+-92504077308782	OpenVPNService	RenzOpenVPNservice.java
+-91499054961518	OpenVPNService	RenzOpenVPNservice.java
+-91688033522542	OpenVPNService	RenzOpenVPNservice.java
+-81526140900206	OpenVPNService	RenzOpenVPNservice.java
+-81350047241070	OpenVPNService	RenzOpenVPNservice.java
+-93358775800686	OpenVPNService	RenzOpenVPNservice.java
+-93521984557934	OpenVPNService	RenzOpenVPNservice.java
+-81916982924142	OpenVPNService	RenzOpenVPNservice.java
+-86044446495598	OpenVPNService	RenzOpenVPNservice.java
+-86465353290606	OpenVPNService	RenzOpenVPNservice.java
+-86959274529646	OpenVPNService	RenzOpenVPNservice.java
+-93156912337774	OpenVPNService	RenzOpenVPNservice.java
+-95175546966894	OpenVPNService	RenzOpenVPNservice.java
+-90588521894766	OpenVPNService	RenzOpenVPNservice.java
+-94930733831022	OpenVPNService	RenzOpenVPNservice.java
+-92972228744046	OpenVPNService	RenzOpenVPNservice.java
+-2580347032430	OpenVPNService	RAJTunnelVPNApplication.java
+-92057400709998	OpenVPNService	b.java
+-107029656703854	PASSWORD	SSHVPNService.java
+-110306716750702	PASSWORD	gg.java
+-109177140351854	PASSWORD	gg.java
+-99363140080494	PAUSE	RenzOpenVPNservice.java
+-107502103106414	PAUSE_TIME	TimeManagerService.java
+-50559426696046	PAUSE_TIME	RAJTunnelVPNMain.java
+-97993045513070	PEM_PASSWORD_FAIL	RenzOpenVPNservice.java
+-135612664058734	PID	za1.java
+-67954044244846	POST	RenzInjectorService.java
+-67928274441070	POSTT	RenzInjectorService.java
+-76320640537454	PROFILE: error enumerating assets	RenzOpenVPNservice.java
+-76114482107246	PROFILE: error evaluating %s: %s	RenzOpenVPNservice.java
+-75904028709742	PROFILE: error reading %s from %s	RenzOpenVPNservice.java
+-84601337484142	PROFILE_	RenzOpenVPNservice.java
+-84356524348270	PROFILE_	RenzOpenVPNservice.java
+-100256493278062	PROFILE_CONFLICT	RenzOpenVPNservice.java
+-100076104651630	PROFILE_DELETE_FAILED	RenzOpenVPNservice.java
+-85760978654062	PROFILE_DELETE_FAILED	RenzOpenVPNservice.java
+-85855467934574	PROFILE_DELETE_FAILED	RenzOpenVPNservice.java
+-99977320403822	PROFILE_DELETE_SUCCESS	RenzOpenVPNservice.java
+-85662194406254	PROFILE_DELETE_SUCCESS	RenzOpenVPNservice.java
+-85112438592366	PROFILE_FILENAME_ERROR	RenzOpenVPNservice.java
+-100415407068014	PROFILE_FILENAME_ERROR	RenzOpenVPNservice.java
+-85404496368494	PROFILE_IMPORT_SUCCESS	RenzOpenVPNservice.java
+-84927754998638	PROFILE_IMPORT_SUCCESS	RenzOpenVPNservice.java
+-99878536156014	PROFILE_IMPORT_SUCCESS	RenzOpenVPNservice.java
+-100707464844142	PROFILE_MERGE_EXCEPTION	RenzOpenVPNservice.java
+-101154141442926	PROFILE_MERGE_MULTIPLE_REF_FAIL	RenzOpenVPNservice.java
+-100810544059246	PROFILE_MERGE_OVPN_EXT_FAIL	RenzOpenVPNservice.java
+-100930803143534	PROFILE_MERGE_OVPN_FILE_FAIL	RenzOpenVPNservice.java
+-101055357195118	PROFILE_MERGE_REF_FAIL	RenzOpenVPNservice.java
+-84639992189806	PROFILE_MERGE_SUCCESS	RenzOpenVPNservice.java
+-84395179053934	PROFILE_MERGE_SUCCESS	RenzOpenVPNservice.java
+-98512736555886	PROFILE_NOT_FOUND	RenzOpenVPNservice.java
+-87367296422766	PROFILE_NOT_FOUND	RenzOpenVPNservice.java
+-85211222840174	PROFILE_PARSE_ERROR	RenzOpenVPNservice.java
+-84734481470318	PROFILE_PARSE_ERROR	RenzOpenVPNservice.java
+-100170593932142	PROFILE_PARSE_ERROR	RenzOpenVPNservice.java
+-100612975563630	PROFILE_RENAME_FAILED	RenzOpenVPNservice.java
+-86529777800046	PROFILE_RENAME_FAILED: post-rename profile get	RenzOpenVPNservice.java
+-87023699039086	PROFILE_RENAME_FAILED: rename operation from='%s' to='%s'	RenzOpenVPNservice.java
+-86108871005038	PROFILE_RENAME_FAILED: rename preliminary checks	RenzOpenVPNservice.java
+-100514191315822	PROFILE_RENAME_SUCCESS	RenzOpenVPNservice.java
+-86860490281838	PROFILE_RENAME_SUCCESS	RenzOpenVPNservice.java
+-85503280616302	PROFILE_WRITE_ERROR	RenzOpenVPNservice.java
+-85026539246446	PROFILE_WRITE_ERROR	RenzOpenVPNservice.java
+-100329507722094	PROFILE_WRITE_ERROR	RenzOpenVPNservice.java
+-99139801781102	PROXY_CONTEXT_EXPIRED	RenzOpenVPNservice.java
+-87766728381294	PROXY_CONTEXT_EXPIRED	RenzOpenVPNservice.java
+-99088262173550	PROXY_ERROR	RenzOpenVPNservice.java
+-110096263353198	PROXY_HOST	gg.java
+-109280219566958	PROXY_HOST	gg.java
+-99015247729518	PROXY_NEED_CREDS	RenzOpenVPNservice.java
+-110143507993454	PROXY_PORT	gg.java
+-103537848292206	Password auth available	SSHVPNService.java
+-68469440320366	Payload Error	RenzInjectorService.java
+-68529569862510	Payload Error	RenzInjectorService.java
+-68589699404654	Payload is null or empty	RenzInjectorService.java
+-110611659428718	PayloadMode	gg.java
+-43494205494126	Please allow to show app notification!	RAJTunnelVPNMain.java
+-50628146172782	Please start VPN first	RAJTunnelVPNMain.java
+-22264182149998	Please wait while we are checking your IP...	gq0.java
+-65995539157870	Premature connection close	RenzInjectorService.java
+-74851761722222	Profile name='%s' ofn='%s' userlock=%s auto=%b epki=%b/%s sl=%s sc=%s dc=%s	RenzOpenVPNservice.java
+-34633687962478	Protocol	RAJTunnelVPNMain.java
+-114404115551086	PubKey	gg.java
+-114369755812718	PubKey	zj.java
+-106046109193070	RECONNECT	SSHVPNService.java
+-76969180599150	RECONNECT	RenzOpenVPNservice.java
+-80826061230958	RECONNECT	RenzOpenVPNservice.java
+-80869010903918	RECONNECT	RenzOpenVPNservice.java
+-73739365192558	RECONNECT	b.java
+-97499124274030	RECONNECTING	RenzOpenVPNservice.java
+-97554958848878	RESOLVE	RenzOpenVPNservice.java
+-99388909884270	RESUME	RenzOpenVPNservice.java
+-96193454216046	RSA/ECB/PKCS1PADDING	RenzOpenVPNservice.java
+-106355346838382	Reconnect stopped	SSHVPNService.java
+-103993114825582	Reconnecting..	SSHVPNService.java
+-9228956406638	SELECTION_MODE	RAJTunnelVPNMain.java
+-107068311409518	SEND_LOGS	SSHVPNService.java
+-92568501818222	SERV: %s	RenzOpenVPNservice.java
+-90652946404206	SERV: CONNECT prof=%s user=%s proxy=%s serv=%s proto=%s ipv6=%s to=%s resp=%s epki_alias=%s comp=%s	RenzOpenVPNservice.java
+-81590565409646	SERV: Service onCreate called	RenzOpenVPNservice.java
+-91915666789230	SERV: client attach n_clients=%d	RenzOpenVPNservice.java
+-92121825219438	SERV: client detach n_clients=%d	b.java
+-81414471750510	SERV: crypto_self_test
+%s	RenzOpenVPNservice.java
+-2644771541870	SERV: crypto_self_test
+%s	RAJTunnelVPNApplication.java
+-91563479470958	SERV: onBind SUPER intent=%s	RenzOpenVPNservice.java
+-91752458031982	SERV: onBind intent=%s	RenzOpenVPNservice.java
+-93423200310126	SERV: onDestroy called	RenzOpenVPNservice.java
+-93586409067374	SERV: onRevoke called	RenzOpenVPNservice.java
+-81981407433582	SERV: onStartCommand action=%s	RenzOpenVPNservice.java
+-93221336847214	SERV: onUnbind called intent=%s	RenzOpenVPNservice.java
+-92400998093678	SERV: refresh profiles:	RenzOpenVPNservice.java
+-93036653253486	SERV: stop_thread succeeded	RenzOpenVPNservice.java
+-108176412971886	SERVER_SELECTED_NAME	RAJTunnelVPNMain.java,z2.java
+-108266607285102	SERVER_SELECTED_NAME	gg.java
+-108485650617198	SERVER_SELECTED_POSITION	RAJTunnelVPNMain.java,z2.java
+-54772789613422	SHOW_GDPR_ONE_TIME	fi.java
+-121568121000814	SLOW DNS	a3.java
+-109722601198446	SNI	RenzInjectorService.java
+-109744076034926	SNI	gg.java
+-94995158340462	SOCKET PROTECT: fd=%d protected status=%b	RenzOpenVPNservice.java
+-121507991458670	SSH	a3.java
+-106114828669806	SSH Injector	SSHVPNService.java
+-105878605468526	SSH Stopped	SSHVPNService.java
+-106643109647214	SSH Tunnel notification	SSHVPNService.java
+-103851380904814	SSH: 	SSHVPNService.java
+-106527145530222	SSH: 	SSHVPNService.java
+-106746188862318	SSHTunnel	SSHVPNService.java
+-110190752633710	SSH_HOST	gg.java
+-108923737281390	SSH_HOST	gg.java
+-108966686954350	SSH_PORT	gg.java
+-121099969565550	SSL > DIRECT PAYLOAD	lk.java
+-121052724925294	SSL DIRECT	lk.java
+-121349077668718	SSL INJECT > WS	lk.java
+-121190163878766	SSL PROXY > PAYLOAD	lk.java
+-4023456043886	SSLNetworks	SelectNetworkActivity.java
+-109022521529198	SSL_PORT	gg.java
+-63744976294766	START	RenzInjectorService.java
+-9117287256942	START_PATH	RAJTunnelVPNMain.java
+-106827793240942	START_SSH_SERVICE	SSHVPNService.java
+-105930145076078	START_SSH_SERVICE	SSHVPNService.java
+-56422057055086	START_TIME	RAJTunnelVPNTimeManager.java
+-107454858466158	START_TIME	TimeManagerService.java
+-50512182055790	START_TIME	RAJTunnelVPNMain.java
+-97378865189742	STAT %s=%s	RenzOpenVPNservice.java
+-63964019626862	STOP	RenzInjectorService.java
+-106905102652270	STOP_SSH	SSHVPNService.java
+-106007454487406	STOP_SSH	SSHVPNService.java
+-29947878642542	Securely connect to the virtual world with RAJ Tunnel VPN. Shield your online activities, protect sensitive data, and enjoy seamless browsing. Stay anonymous, encrypt your internet connection, and take charge of your digital security.
+
+Tap to proceed.	pq0.java
+-65901049877358	Sending 200 OK Status	RenzInjectorService.java
+-3950441599854	Servers	RAJTunnelVPNMain.java
+-31365217850222	Servers	pq0.java
+-142978532971374	SignatureKiller	za1.java
+-136355693400942	SignatureKiller	za1.java
+-69568951948142	Socket Protected!	RenzInjectorService.java
+-40354584400750	Sorry there's no Update Available. Your current Server Version is 	RAJTunnelVPNMain.java
+-106243677688686	Start SSH Tunnel	SSHVPNService.java
+-82226220569454	Starting UDP Thread	RenzOpenVPNservice.java
+-84047286702958	Stopping UDP Tunnel	RenzOpenVPNservice.java
+-63641897079662	Stopping UDP....	RenzOpenVPNservice.java
+-34732472210286	Subname	RAJTunnelVPNMain.java
+-34766831948654	Subname	RAJTunnelVPNMain.java
+-20816778171246	TAG	c.java
+-20928447320942	TAG	c.java
+-21044411437934	TAG	c.java
+-55657552876398	TAG	tq0.java
+-18003574592366	TAG	vp0.java
+-98435427144558	TAP_NOT_SUPPORTED	RenzOpenVPNservice.java
+-42656686871406	TB	RAJTunnelVPNMain.java
+-91284306596718	TB	RenzOpenVPNservice.java
+-129213162787694	TIME_KEY	n51.java
+-128792255992686	TIME_KEY	n51.java
+-128753601287022	TIME_KEY	n51.java
+-128830910698350	TIME_KEY	n51.java
+-110950961845102	TLS	sv0.java
+-110856472564590	TLSVersion	gg.java
+-110903717204846	TLSVersion	sv0.java
+-98143369368430	TLS_VERSION_MIN	RenzOpenVPNservice.java
+-94651560956782	TO PROXY	RenzOpenVPNservice.java
+-109812795511662	TUNNEL_TYPE	gg.java
+-109761255904110	TUNNEL_TYPE	gg.java
+-98362412700526	TUN_IFACE_CREATE	RenzOpenVPNservice.java
+-98289398256494	TUN_SETUP_FAILED	RenzOpenVPNservice.java
+-20700814054254	Thanks for supporting us❤️	c.java
+-20945627190126	The ad failed to show.	c.java
+-20833958040430	The ad was dismissed.	c.java
+-21061591307118	The ad was shown.	c.java
+-991209132910	The app open ad is already showing.	RAJTunnelVPNApplication.java
+-1218842399598	The app open ad is not ready yet.	RAJTunnelVPNApplication.java
+-65170905437038	The proxy did not send back a valid HTTP response.	RenzInjectorService.java
+-65608992101230	The proxy did not send back a valid HTTP response.	RenzInjectorService.java
+-65389948769134	The proxy did not send back a valid HTTP response.	RenzInjectorService.java
+-66403561050990	The server sent a too long line: 	RenzInjectorService.java
+-55674732745582	The user earned the reward.	tq0.java
+-18020754461550	The user earned the reward.	vp0.java
+-31803304514414	This is where you can select the base payload for your SIM pack, country, or data package.	pq0.java
+-31399577588590	This is where you can select the location or servers you want to connect to	pq0.java
+-35810509001582	To connect to GTM No Load No Blocking, Make sure that you are now in the Magic IP. Click the button to check your IP!	c.java
+-94746050237294	Tunnel Options	RenzOpenVPNservice.java
+-14614845395822	Tutorial Canceled:(	jp0.java
+-34672342668142	UDP	RAJTunnelVPNMain.java
+-121525171327854	UDP	a3.java
+-121417797145454	UDP	lk.java
+-73215379182446	UDP Tunnel stopped	RenzOpenVPNservice.java
+-110504285246318	UDP_SSL_PORT	gg.java
+-101291580396398	UI_RESET	RenzOpenVPNservice.java
+-92834789790574	UI_RESET	b.java
+-94582841480046	UNUSED OPTIONS	RenzOpenVPNservice.java
+-106991001998190	USERNAME	SSHVPNService.java
+-110268062045038	USERNAME	gg.java
+-109134190678894	USERNAME	gg.java
+-74155977020270	UTF-8	RenzOpenVPNservice.java
+-75272668517230	UTF-8	RenzOpenVPNservice.java
+-74246171333486	UnsupportedEncodingException when decoding profile filename	RenzOpenVPNservice.java
+-75388632634222	UnsupportedEncodingException when encoding profile filename	RenzOpenVPNservice.java
+-23827550245742	Update Error 	pq0.java
+-23685816324974	Update Success!	pq0.java
+-40238620283758	Update Successs!	RAJTunnelVPNMain.java
+-113888719475566	V2RAY_BUG_HOST	RAJTunnelVPNMain.java
+-114051928232814	V2RAY_REVERSE_ADDRESS	RAJTunnelVPNMain.java
+-113764165423982	V2RAY_WS_TYPE	RAJTunnelVPNMain.java
+-121542351197038	V2Ray	a3.java
+-121434977014638	V2Ray	lk.java
+-54416307327854	Version	RAJTunnelVPNMain.java
+-54450667066222	Version	RAJTunnelVPNMain.java
+-35728904622958	Version	RAJTunnelVPNMain.java
+-23544082404206	Version	pq0.java
+-53879436415854	Version	pq0.java
+-110787753087854	VpnMode	gg.java
+-110822112826222	VpnMode	gg.java
+-97636563227502	WAIT	RenzOpenVPNservice.java
+-97589318587246	WAIT_PROXY	RenzOpenVPNservice.java
+-98993772893038	WARN	RenzOpenVPNservice.java
+-106170663244654	Wakelock aquired	SSHVPNService.java
+-105805591024494	Wakelock release	SSHVPNService.java
+-55043372553070	Watch Ads	RAJTunnelVPNTimeManager.java
+-55167926604654	Watch Ads	RAJTunnelVPNTimeManager.java
+-33181989016430	Watch Ads	RAJTunnelVPNMain.java
+-32919996011374	Watch Ads	op0.java
+-1437885731694	Will show ad.	RAJTunnelVPNApplication.java
+-55794991829870	You Have Successfully recived the reward	tq0.java
+-18141013545838	You Have Successfully recived the reward	vp0.java
+-3697038529390	Your time is expired, please add time now!	b.java
+-69934024168302	ZIVPN UDP running	z91.java
+-94892079125358	[%s]: %s	RenzOpenVPNservice.java
+-19253410075502	[Default]	RAJTunnelVPNMain.java
+-33486931694446	[Default]	RAJTunnelVPNMain.java
+-68697073587054	[cr*	RenzInjectorService.java
+-68718548423534	[cr*	RenzInjectorService.java
+-68246102020974	[cr]	RenzInjectorService.java
+-68800152802158	[crlf*	RenzInjectorService.java
+-68830217573230	[crlf*	RenzInjectorService.java
+-68306231563118	[crlf]	RenzInjectorService.java
+-67503072678766	[delay_split]	RenzInjectorService.java
+-67563202220910	[delay_split]	RenzInjectorService.java
+-68138727838574	[host]	RenzInjectorService.java
+-68087188231022	[host_port]	RenzInjectorService.java
+-67318389085038	[instant_split]	RenzInjectorService.java
+-67387108561774	[instant_split]	RenzInjectorService.java
+-68748613194606	[lf*	RenzInjectorService.java
+-68770088031086	[lf*	RenzInjectorService.java
+-68276166792046	[lf]	RenzInjectorService.java
+-68873167246190	[lfcr*	RenzInjectorService.java
+-68903232017262	[lfcr*	RenzInjectorService.java
+-68349181236078	[lfcr]	RenzInjectorService.java
+-68048533525358	[method]	RenzInjectorService.java
+-68168792609646	[port]	RenzInjectorService.java
+-68198857380718	[protocol]	RenzInjectorService.java
+-66734273532782	[random]	RenzInjectorService.java
+-66772928238446	[random]	RenzInjectorService.java
+-68022763721582	[raw]	RenzInjectorService.java
+-67975519081326	[real_raw]	RenzInjectorService.java
+-66811582944110	[repeat]	RenzInjectorService.java
+-66850237649774	[repeat]	RenzInjectorService.java
+-66596834579310	[rlb]	RenzInjectorService.java
+-67820900258670	[rlb]	RenzInjectorService.java
+-67717821043566	[split]	RenzInjectorService.java
+-67752180781934	[split]	RenzInjectorService.java
+-68435080581998	[split]	RenzInjectorService.java
+-66966201766766	[split_delay]	RenzInjectorService.java
+-67026331308910	[split_delay]	RenzInjectorService.java
+-67133705491310	[split_instant]	RenzInjectorService.java
+-67202424968046	[split_instant]	RenzInjectorService.java
+-67859554964334	[ua]	RenzInjectorService.java
+-68946181690222	\[.*?\*(.*?[0-9])\]	RenzInjectorService.java
+-68413605745518	\n	RenzInjectorService.java
+-68392130909038	\r	RenzInjectorService.java
+-66901777257326	\r\n	RenzInjectorService.java
+-135629843927918	\s+	za1.java
+-69036376003438	]	RenzInjectorService.java
+-137304881173358	^((25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)$	za1.java
+-143047252448110	^((25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)$	za1.java
+-129251817493358	^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(\.|$)){4}$	za1.java
+-136879679411054	^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$	za1.java
+-129475155792750	^.*://	za1.java
+-12295563055982	^[a-zA-Z0-9$._-]+$	gp0.java
+-14700744741742	^[a-zA-Z0-9$._-]+$	kp0.java
+-136235434316654	a.mp3	za1.java
+-40187080676206	a.rlb	RAJTunnelVPNMain.java
+-40212850479982	a.rlb	RAJTunnelVPNMain.java
+-3636908987246	a.rlb	b.java
+-23634276717422	a.rlb	pq0.java
+-23660046521198	a.rlb	pq0.java
+-34466184237934	activity	RAJTunnelVPNMain.java
+-2541692326766	activity	RAJTunnelVPNApplication.java
+-23114585674606	activity	jq0.java
+-114610273981294	afgODhBEU2BhV11cECgOEB8cHhAa+A4OEEFTYGRTYGEQKA5J+A4ODg5p+A4ODg4ODhA8T1tTECgOEENcV2JTUg5BYk9iU2EOHxAa+A4ODg4ODhBBU2BkU2A3PjZdYWIQKA4QHyEmHCAeHxwnIBwgIicQGvgODg4ODg4QMU9iU1VdYGcQKA4QPkAzOzdDOxAa+A4ODg4ODhA9XlNcRD48QjE+Pl1gYhAoDhAfHyciEBr4Dg4ODg4OED1eU1xEPjxBQTo+XWBiECgOECIiIRAa+A4ODg4ODhA+YF1iXVFdWhAoDh4a+A4ODg4ODhA+YF1iXVFdWkJXYlpTECgOEDQvQUIzQBD4Dg4ODmv4Dg5LGvgODhA8U2JlXWBZYRAoDkn4Dg4ODmn4Dg4ODg4OEDxPW1MQKA4QNC8xMzA9PTkOPi8xOQ43PDgzMUIQGvgODg4ODg4QPk9nWl1PUhAoDhAxPTw8MzFCDklWXWFiTV5dYGJLDkleYF1iXVFdWktJUWBaVEs2XWFiKA5bHFRPUVNQXV1ZHFFdW0lRYFpUS0YbPVxaV1xTGzZdYWIoDlscVE9RU1BdXVkcUV1bSVFgWlRLRhs0XWBlT2BSGzZdYWIoDlscVE9RU1BdXVkcUV1bSVFgWlRLMV1cXFNRYlddXCgOOVNTXhsvWldkU0lRYFpUS0lRYFpUSxAa+A4ODg4ODhA3XFRdECgOEBAa+A4ODg4ODhBCY1xcU1pCZ15TECgOIBr4Dg4ODg4OEDI8QUFTYGRTYDZdYWIQKA4QEBr4Dg4ODg4OEDNcT1BaU0VBECgOVE9aYVMa+A4ODg4ODhA+YF1mZ0FTYmJXXFVhECgOafgODg4ODg4ODhBBX2NXUhAoDhBJMlNUT2NaYksQGvgODg4ODg4ODhA+XWBiECgOECYeEPgODg4ODg5r+A4ODg5r+A4OSxr4Dg4QQUE6PFNiZV1gWWEQKA5J+A4ODg5p+A4ODg4ODhA8T1tTECgOEDRPUVNQXV1ZDj5PUVkQGvgODg4ODg4QQTw3Nl1hYhAoDhBbHFRPUVNQXV1ZHFFdWxAa+A4ODg4ODhA+T2daXU9SECgOEBAa+A4ODg4ODhA3XFRdECgOEBAa+A4ODg4ODhBCY1xcU1pCZ15TECgOIRr4Dg4ODg4OEDI8QUFTYGRTYDZdYWIQKA4QEBr4Dg4ODg4OEDNcT1BaU0VBECgOVE9aYVMa+A4ODg4ODhA+YF1mZ0FTYmJXXFVhECgOafgODg4ODg4ODhBBX2NXUhAoDhBJMlNUT2NaYksQGvgODg4ODg4ODhA+XWBiECgOEBD4Dg4ODg4Oa/gODg4Oa/gODksa+A4OEENhU2BcT1tTECgOEB8gISEjEBr4Dg4QPk9hYWVdYFIQKA4QHyAhISEQGvgODhA8XWJTYRAoDhAvOjoONT09Mg5FPUA5Nzw1EPhr	gg.java
+-54914523534190	alarmSetTime	RAJTunnelVPNMain.java
+-89892737192814	alt_proxy	RenzOpenVPNservice.java
+-1571029717870	android.content.pm.ApplicationInfo	RAJTunnelVPNApplication.java
+-12793779262318	android.content.pm.ApplicationInfo	gp0.java
+-13283405534062	android.content.pm.ApplicationInfo	gp0.java
+-13773031805806	android.content.pm.ApplicationInfo	gp0.java
+-15198960948078	android.content.pm.ApplicationInfo	kp0.java
+-15688587219822	android.content.pm.ApplicationInfo	kp0.java
+-16178213491566	android.content.pm.ApplicationInfo	kp0.java
+-24269931877230	android.intent.action.GET_CONTENT	pq0.java
+-81208313320302	android.intent.action.SCREEN_OFF	RenzOpenVPNservice.java
+-81070874366830	android.intent.action.SCREEN_ON	RenzOpenVPNservice.java
+-41127678514030	android.intent.action.VIEW	RAJTunnelVPNMain.java
+-11720037438318	android.intent.action.VIEW	dp0.java
+-11947670705006	android.intent.action.VIEW	ep0.java
+-22633549337454	android.intent.action.VIEW	iq0.java
+-23887679787886	android.intent.action.VIEW	pq0.java
+-20267022357358	android.intent.action.VIEW	zp0.java
+-80911960576878	android.net.conn.CONNECTIVITY_CHANGE	RenzOpenVPNservice.java
+-43661709218670	android.permission.READ_EXTERNAL_STORAGE	RAJTunnelVPNMain.java
+-75753704854382	app private storage	RenzOpenVPNservice.java
+-75680690410350	assets	RenzOpenVPNservice.java
+-136261204120430	audio	za1.java
+-85370136630126	auth	RenzOpenVPNservice.java
+-84893395260270	auth	RenzOpenVPNservice.java
+-85627834667886	auth	RenzOpenVPNservice.java
+-86826130543470	auth	RenzOpenVPNservice.java
+-84296394806126	auth	RenzOpenVPNservice.java
+-72021378274158	auth error	z91.java
+-57418489467758	auth_str	z91.java
+-6140874920814	autostart	OpenVPNRebootReceiver.java
+-41428326224750	autostart_finish_on_connect	RAJTunnelVPNMain.java
+-5943306425198	autostart_profile_name	OpenVPNRebootReceiver.java
+-6042090673006	autostart_profile_name	OpenVPNRebootReceiver.java
+-97116872184686	autostart_profile_name	RenzOpenVPNservice.java
+-97215656432494	autostart_profile_name	RenzOpenVPNservice.java
+-1845907624814	base.apk	RAJTunnelVPNApplication.java
+-13115901809518	base.apk	gp0.java
+-13605528081262	base.apk	gp0.java
+-14095154353006	base.apk	gp0.java
+-15521083495278	base.apk	kp0.java
+-16010709767022	base.apk	kp0.java
+-16500336038766	base.apk	kp0.java
+-14546125919086	beginnerInstall	jp0.java
+-74641308324718	bundled	RenzOpenVPNservice.java
+-74675668063086	bundled	RenzOpenVPNservice.java
+-75646330671982	bundled	RenzOpenVPNservice.java
+-97426109829998	bundled	RenzOpenVPNservice.java
+-92263559140206	bundled	RenzOpenVPNservice.java
+-135664203666286	busybox 	za1.java
+-135939081573230	busybox 	za1.java
+-137163147252590	cb18ac8b8b5df2adcde4ac6ab24364a9	za1.java
+-90000111375214	cert_profile_insecure	RenzOpenVPNservice.java
+-2034886185838	checkAppSign	RAJTunnelVPNApplication.java
+-40131246101358	classes3.dex	RAJTunnelVPNMain.java
+-3581074412398	classes3.dex	b.java
+-23578442142574	classes3.dex	pq0.java
+-63573177602926	client	z91.java
+-74542524076910	client.ovpn	RenzOpenVPNservice.java
+-23221959857006	clipboard	pq0.java
+-14357147358062	closeEntry	gp0.java
+-16762329043822	closeEntry	kp0.java
+-41243642631022	com.android.browser.application_id	RAJTunnelVPNMain.java
+-22749513454446	com.android.vending	iq0.java
+-57925295608686	config.json	z91.java
+-89214132360046	connect-retry 1
+connect-retry-max 100
+http-proxy %s	RenzOpenVPNservice.java
+-56606740648814	connectivity	RAJTunnelVPNTimeManager.java,tq0.java
+-107549347746670	connectivity	TimeManagerService.java
+-105736871547758	connectivity	SSHVPNService.java
+-33224938689390	connectivity	vp0.java
+-32572103660398	containsArray	RAJTunnelVPNMain.java
+-136213959480174	core	za1.java
+-19859000464238	counter	fq0.java
+-16852523357038	counter1	np0.java
+-113201524708206	custom_dns_enable	cq0.java
+-113124215296878	custom_dns_enable	gg.java
+-113364733465454	custom_primary_dns	cq0.java
+-113278834119534	custom_primary_dns	gg.java
+-113540827124590	custom_secondary_dns	cq0.java
+-113446337844078	custom_secondary_dns	gg.java
+-13154556515182	dalvik.system.DexFile	gp0.java
+-13644182786926	dalvik.system.DexFile	gp0.java
+-15559738200942	dalvik.system.DexFile	kp0.java
+-16049364472686	dalvik.system.DexFile	kp0.java
+-57719137178478	disable_udp	z91.java
+-57517273715566	down_mbps	z91.java
+-105792706122606	en	SSHVPNService.java
+-83553365463918	en	z91.java
+-89123938046830	enable_notifications	RenzOpenVPNservice.java
+-13249045795694	entries	gp0.java
+-13738672067438	entries	gp0.java
+-15654227481454	entries	kp0.java
+-16143853753198	entries	kp0.java
+-74594063684462	epki_alias	RenzOpenVPNservice.java
+-74710027801454	epki_alias	RenzOpenVPNservice.java
+-136016390984558	error killing process: %s, %s	za1.java
+-51538679239534	expand_stats	RAJTunnelVPNMain.java
+-51482844664686	expand_stats	RAJTunnelVPNMain.java
+-40955879822190	expand_stats	RAJTunnelVPNMain.java
+-28586374009710	expire	RAJTunnelVPNMain.java
+-19893360202606	expire	fq0.java
+-16891178062702	expire1	np0.java
+-32821211763566	expire2	op0.java
+-32391715033966	finish	RAJTunnelVPNMain.java
+-20211187782510	firstInstall	zp0.java
+-34801191687022	flag	RAJTunnelVPNMain.java
+-1721353573230	getApplicationInfo	RAJTunnelVPNApplication.java
+-12944103117678	getApplicationInfo	gp0.java
+-13433729389422	getApplicationInfo	gp0.java
+-13923355661166	getApplicationInfo	gp0.java
+-15349284803438	getApplicationInfo	kp0.java
+-15838911075182	getApplicationInfo	kp0.java
+-16328537346926	getApplicationInfo	kp0.java
+-2168030172014	getInstallerPackageName	RAJTunnelVPNApplication.java
+-12656340308846	getInstallerPackageName	gp0.java
+-15061521994606	getInstallerPackageName	kp0.java
+-14189643633518	getName	gp0.java
+-16594825319278	getName	kp0.java
+-14133809058670	getNextEntry	gp0.java
+-16538990744430	getNextEntry	kp0.java
+-2090720760686	getPackageManager	RAJTunnelVPNApplication.java
+-12579030897518	getPackageManager	gp0.java
+-14984212583278	getPackageManager	kp0.java
+-89806837846894	google_dns_fallback	RenzOpenVPNservice.java
+-71140909978478	handshake did not complete in time	z91.java
+-94844834485102	hh:mm:ss a	RenzOpenVPNservice.java
+-67881029800814	http.agent	RenzInjectorService.java
+-66622604383086	https://	RenzInjectorService.java
+-11836001555310	https://t.me/rajtunnelvpn	dp0.java
+-12063634821998	https://whatsapp.com/channel/0029VbCTogKB4hdPlqP2ls3A	ep0.java
+-20382986474350	https://whatsapp.com/channel/0029VbCTogKB4hdPlqP2ls3A	zp0.java
+-24003643904878	https://www.kiberudata.com/p/cranevpn.html	pq0.java
+-74503869371246	imported	RenzOpenVPNservice.java
+-75715050148718	imported	RenzOpenVPNservice.java
+-85331481924462	imported	RenzOpenVPNservice.java
+-84854740554606	imported	RenzOpenVPNservice.java
+-97460469568366	imported	RenzOpenVPNservice.java
+-92297918878574	imported	RenzOpenVPNservice.java
+-2481562784622	initializeApp	RAJTunnelVPNApplication.java
+-69895369462638	injector	RenzInjectorService.java
+-57650417701742	insecure	z91.java
+-90094600655726	insecure-default	RenzOpenVPNservice.java
+-110968141714286	isModified	gg.java
+-135977736278894	kill 	za1.java
+-135741513077614	killall 	za1.java
+-135788757717870	killall 	za1.java
+-57126431691630	kobe	z91.java
+-57397014631278	kobe	z91.java
+-89935686865774	legacy-default	RenzOpenVPNservice.java
+-13098721940334	lib	gp0.java
+-13588348212078	lib	gp0.java
+-14077974483822	lib	gp0.java
+-15503903626094	lib	kp0.java
+-15993529897838	lib	kp0.java
+-16483156169582	lib	kp0.java
+-56963222934382	libotensahorse	ps.java
+-56662575223662	libotensahorse	ps.java
+-56726999733102	libotensahorse	ps.java
+-63714911523694	libudp	z91.java
+-63513048060782	libudp	z91.java
+-63543112831854	libudp	z91.java
+-57689072407406	listen	z91.java
+-22508995285870	market://details?id=	iq0.java
+-13025707496302	nativeLibraryDir	gp0.java
+-13515333768046	nativeLibraryDir	gp0.java
+-14004960039790	nativeLibraryDir	gp0.java
+-15430889182062	nativeLibraryDir	kp0.java
+-15920515453806	nativeLibraryDir	kp0.java
+-16410141725550	nativeLibraryDir	kp0.java
+-102648790061934	net.openvpn.openvpn	RenzOpenVPNservice.java
+-81831083578222	net.openvpn.openvpn	RenzOpenVPNservice.java
+-8013480661870	net.openvpn.openvpn	lq0.java
+-101330235102062	net.openvpn.openvpn.	RenzOpenVPNservice.java
+-102081854378862	net.openvpn.openvpn.ACTION_IMPORT_PROFILE_VIA_PATH	RenzOpenVPNservice.java
+-82913415336814	net.openvpn.openvpn.ACTION_IMPORT_PROFILE_VIA_PATH	RenzOpenVPNservice.java
+-102451221566318	net.openvpn.openvpn.ACTION_SUBMIT_PROXY_CREDS	RenzOpenVPNservice.java
+-82432378999662	net.openvpn.openvpn.ACTION_SUBMIT_PROXY_CREDS	RenzOpenVPNservice.java
+-6183824593774	net.openvpn.openvpn.AUTOSTART_PROFILE_NAME	OpenVPNRebootReceiver.java
+-42210010272622	net.openvpn.openvpn.AUTOSTART_PROFILE_NAME	RAJTunnelVPNMain.java
+-8464452227950	net.openvpn.openvpn.AUTOSTART_PROFILE_NAME	kq0.java
+-101420429415278	net.openvpn.openvpn.BIND	RenzOpenVPNservice.java
+-91391680779118	net.openvpn.openvpn.BIND	RenzOpenVPNservice.java
+-4074995651438	net.openvpn.openvpn.BIND	RAJTunnelVPNLog.java
+-101527803597678	net.openvpn.openvpn.CONNECT	RenzOpenVPNservice.java
+-82312119915374	net.openvpn.openvpn.CONNECT	RenzOpenVPNservice.java
+-8344193143662	net.openvpn.openvpn.CONNECT	kq0.java
+-101648062681966	net.openvpn.openvpn.DELETE_PROFILE	RenzOpenVPNservice.java
+-83132458668910	net.openvpn.openvpn.DELETE_PROFILE	RenzOpenVPNservice.java
+-7742897722222	net.openvpn.openvpn.DELETE_PROFILE	wo0.java
+-101798386537326	net.openvpn.openvpn.DISCONNECT	RenzOpenVPNservice.java
+-82629947495278	net.openvpn.openvpn.DISCONNECT	RenzOpenVPNservice.java
+-6613321323374	net.openvpn.openvpn.DISCONNECT	b.java
+-101931530523502	net.openvpn.openvpn.IMPORT_PROFILE	RenzOpenVPNservice.java
+-82763091481454	net.openvpn.openvpn.IMPORT_PROFILE	RenzOpenVPNservice.java
+-51740542702446	net.openvpn.openvpn.MENU_KEY	RAJTunnelVPNMain.java
+-51615988650862	net.openvpn.openvpn.MENU_KEY	RAJTunnelVPNMain.java
+-7893221577582	net.openvpn.openvpn.PROFILE	wo0.java
+-102300897710958	net.openvpn.openvpn.RENAME_PROFILE	RenzOpenVPNservice.java
+-83282782524270	net.openvpn.openvpn.RENAME_PROFILE	RenzOpenVPNservice.java
+-8099380007790	net.openvpn.openvpn.RENAME_PROFILE	lq0.java
+-6746465309550	net.openvpn.openvpn.STOP	b.java
+-36338789978990	no load	RAJTunnelVPNMain.java
+-70646988739438	no recent network activity	z91.java
+-36394624553838	noload	RAJTunnelVPNMain.java
+-106552915333998	notification	SSHVPNService.java
+-81719414428526	notification	RenzOpenVPNservice.java
+-75178179236718	null	RenzOpenVPNservice.java
+-75199654073198	null	RenzOpenVPNservice.java
+-57375539794798	obfs	z91.java
+-55524408890222	onAdDismissedFullScreenContent	sq0.java
+-17870430606190	onAdDismissedFullScreenContent	up0.java
+-355553973102	onAdDismissedFullScreenContent.	RAJTunnelVPNApplication.java
+-200935150446	onAdFailedToLoad: 	RAJTunnelVPNApplication.java
+-55378380002158	onAdFailedToShowFullScreenContent	sq0.java
+-17664272175982	onAdFailedToShowFullScreenContent	up0.java
+-566007370606	onAdFailedToShowFullScreenContent: 	RAJTunnelVPNApplication.java
+-55210876277614	onAdLoaded	RAJTunnelVPNTimeManager.java
+-17376509367150	onAdLoaded	RAJTunnelVPNMain.java
+-21199030260590	onAdLoaded	RAJTunnelVPNMain.java
+-76381098862	onAdLoaded.	RAJTunnelVPNApplication.java
+-55258120917870	onAdShowedFullScreenContent	sq0.java
+-17483883549550	onAdShowedFullScreenContent	up0.java
+-793640637294	onAdShowedFullScreenContent.	RAJTunnelVPNApplication.java
+-91189817316206	openvpn	RenzOpenVPNservice.java
+-2305469125486	ovpn3	RAJTunnelVPNApplication.java
+-106789138535278	password	SSHVPNService.java
+-103499193586542	password	SSHVPNService.java
+-106316692132718	password	SSHVPNService.java
+-95239971476334	pause_on_connection_timeout %b	RenzOpenVPNservice.java
+-73580451402606	pause_vpn_on_blanked_screen	RenzOpenVPNservice.java
+-102910783066990	pdnsd started	ov0.java
+-73095120098158	pdnsd started	qt0.java
+-102970912609134	pdnsd stopped	ov0.java
+-73155249640302	pdnsd stopped	qt0.java
+-85391611466606	pk	RenzOpenVPNservice.java
+-84914870096750	pk	RenzOpenVPNservice.java
+-85649309504366	pk	RenzOpenVPNservice.java
+-86847605379950	pk	RenzOpenVPNservice.java
+-84317869642606	pk	RenzOpenVPNservice.java
+-106089058866030	power	SSHVPNService.java
+-81775249003374	proxies.json	RenzOpenVPNservice.java
+-135539649614702	ps -A	za1.java
+-135509584843630	ps -ef	za1.java
+-57873756001134	recv_window	z91.java
+-57800741557102	recv_window_conn	z91.java
+-12377167434606	renz.javacodez.vpn.activities.RAJTunnelVPNMain	gp0.java
+-14782349120366	renz.javacodez.vpn.activities.RAJTunnelVPNMain	kp0.java
+-32421779805038	renz.javacodez.vpn.utils.RenzUtils	RAJTunnelVPNMain.java
+-1884562330478	renz.javacodez.vpn.utils.RenzUtils	RAJTunnelVPNApplication.java
+-2331238929262	renz.javacodez.vpn.utils.RenzUtils	RAJTunnelVPNApplication.java
+-57560223388526	retry	z91.java
+-57585993192302	retry_interval	z91.java
+-57345475023726	server	z91.java
+-23028686328686	show_rate_us_dialog	iq0.java
+-57770676786030	socks5	z91.java
+-1802957951854	sourceDir	RAJTunnelVPNApplication.java
+-106625929778030	ssh	SSHVPNService.java
+-106608749908846	ssh	SSHVPNService.java
+-137141672416110	test	za1.java
+-90167615099758	tls_version_min_override	RenzOpenVPNservice.java
+-72648443499374	too many connections	z91.java
+-135702858371950	toolbox 	za1.java
+-135900426867566	toolbox 	za1.java
+-135565419418478	toolbox ps	za1.java
+-103031042151278	tun2socks started	pv0.java
+-73296983561070	tun2socks started	rt0.java
+-103108351562606	tun2socks stopped	pv0.java
+-73374292972398	tun2socks stopped	rt0.java
+-77677850202990	tun_builder_add_address	RenzOpenVPNservice.java
+-79095189410670	tun_builder_add_dns_server	RenzOpenVPNservice.java
+-78373634904942	tun_builder_add_route	RenzOpenVPNservice.java
+-78072987194222	tun_builder_add_route	RenzOpenVPNservice.java
+-79404427055982	tun_builder_add_search_domain	RenzOpenVPNservice.java
+-80229060776814	tun_builder_establish	RenzOpenVPNservice.java
+-78768771896174	tun_builder_exclude_route	RenzOpenVPNservice.java
+-79683599930222	tun_builder_set_mtu	RenzOpenVPNservice.java
+-77278418244462	tun_builder_set_remote_address	RenzOpenVPNservice.java
+-79958477837166	tun_builder_set_session_name	RenzOpenVPNservice.java
+-80525413520238	tun_builder_teardown	RenzOpenVPNservice.java
+-89484715299694	tun_persist	RenzOpenVPNservice.java
+-91082443133806	undef	RenzOpenVPNservice.java
+-57482913977198	up_mbps	z91.java
+-121980437861230	vless://%s@%s:%s?mode=gun&security=%s&encryption=none&type=grpc&serviceName=%s&sni=%s#Renz-V2Ray	rg.java
+-122397049688942	vless://%s@%s:%s?path=%s&encryption=none&type=ws#Renz-V2Ray	rg.java
+-125699879539566	vless://%s@%s:%s?path=%s&security=%s&encryption=none&host=%s&type=ws&sni=%s#Renz-V2Ray	rg.java
+-121606775706478	vless://%s@%s:%s?path=%s&security=%s&encryption=none&host=%s&type=ws&sni=%s#Renz-V2Ray	rg.java
+-122654747726702	vmess://%s	rg.java
+-123603935499118	vmess://%s	rg.java
+-124651907519342	vmess://%s	rg.java
+-57027647443822	zi.ca.crt	z91.java
+-126073541694318	{
+ "add": "%s",
+ "aid": "0",
+ "alpn": "",
+ "fp": "",
+ "host": "%s",
+ "id": "%s",
+ "net": "ws",
+ "path": "%s",
+ "port": "%s",
+ "ps": "Vmess",
+ "scy": "auto",
+ "sni": "%s",
+ "tls": "%s",
+ "type": "",
+ "v": "2"
+}	rg.java
+-122701992366958	{
+ "add": "%s",
+ "aid": "0",
+ "alpn": "",
+ "fp": "",
+ "host": "%s",
+ "id": "%s",
+ "net": "ws",
+ "path": "%s",
+ "port": "%s",
+ "ps": "Vmess",
+ "scy": "auto",
+ "sni": "%s",
+ "tls": "%s",
+ "type": "",
+ "v": "2"
+}	rg.java
+-126975484826478	{
+  "add": "%s",
+  "aid": "0",
+  "alpn": "",
+  "fp": "",
+  "host": "",
+  "id": "%s",
+  "net": "grpc",
+  "path": "%s",
+  "port": "%s",
+  "ps": "Renz-V2Ray",
+  "scy": "none",
+  "sni": "%s",
+  "tls": "%s",
+  "type": "gun",
+  "v": "2"
+}	rg.java
+-123651180139374	{
+  "add": "%s",
+  "aid": "0",
+  "alpn": "",
+  "fp": "",
+  "host": "",
+  "id": "%s",
+  "net": "grpc",
+  "path": "%s",
+  "port": "%s",
+  "ps": "Renz-V2Ray",
+  "scy": "none",
+  "sni": "%s",
+  "tls": "%s",
+  "type": "gun",
+  "v": "2"
+}	rg.java
+-124699152159598	{
+  "add": "%s",
+  "aid": "0",
+  "alpn": "",
+  "fp": "",
+  "host": "",
+  "id": "%s",
+  "net": "grpc",
+  "path": "%s",
+  "port": "%s",
+  "ps": "Renz-V2Ray",
+  "scy": "none",
+  "sni": "%s",
+  "tls": "%s",
+  "type": "gun",
+  "v": "2"
+}	rg.java
+-127976212206446	{
+  "v": "2",
+  "ps": "Renz-V2Ray",
+  "add": "%s",
+  "port": "%s",
+  "id": "%s",
+  "aid": "0",
+  "net": "ws",
+  "path": "%s",
+  "type": "none",
+  "host": "tsel.me",
+  "tls": "%s"
+}	rg.java

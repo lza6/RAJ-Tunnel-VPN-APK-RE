@@ -1,0 +1,7554 @@
+[
+ {
+  "const": -4023456043886,
+  "value": "SSLNetworks",
+  "files": [
+   "SelectNetworkActivity.java"
+  ]
+ },
+ {
+  "const": -55043372553070,
+  "value": "Watch Ads",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -54970358109038,
+  "value": "Come back after ",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -56580970845038,
+  "value": "%02ds",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -128929694946158,
+  "value": "INTERVAL_TIME",
+  "files": [
+   "RAJTunnelVPNTimeManager.java",
+   "qp0.java"
+  ]
+ },
+ {
+  "const": -55086322226030,
+  "value": "Ads failed to load",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -55167926604654,
+  "value": "Watch Ads",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -55210876277614,
+  "value": "onAdLoaded",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -56357632545646,
+  "value": "Ads is loading",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -56516546335598,
+  "value": "%02d:%02d:%02d",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -56422057055086,
+  "value": "START_TIME",
+  "files": [
+   "RAJTunnelVPNTimeManager.java"
+  ]
+ },
+ {
+  "const": -56606740648814,
+  "value": "connectivity",
+  "files": [
+   "RAJTunnelVPNTimeManager.java",
+   "tq0.java"
+  ]
+ },
+ {
+  "const": -107549347746670,
+  "value": "connectivity",
+  "files": [
+   "TimeManagerService.java"
+  ]
+ },
+ {
+  "const": -107454858466158,
+  "value": "START_TIME",
+  "files": [
+   "TimeManagerService.java"
+  ]
+ },
+ {
+  "const": -107502103106414,
+  "value": "PAUSE_TIME",
+  "files": [
+   "TimeManagerService.java"
+  ]
+ },
+ {
+  "const": -106746188862318,
+  "value": "SSHTunnel",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106789138535278,
+  "value": "password",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106827793240942,
+  "value": "START_SSH_SERVICE",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106905102652270,
+  "value": "STOP_SSH",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106943757357934,
+  "value": "LOCAL_PORT",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106991001998190,
+  "value": "USERNAME",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -107029656703854,
+  "value": "PASSWORD",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -107068311409518,
+  "value": "SEND_LOGS",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103499193586542,
+  "value": "password",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103537848292206,
+  "value": "Password auth available",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103640927507310,
+  "value": "Authenticate password done",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103756891624302,
+  "value": "Authentication failed",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103851380904814,
+  "value": "SSH: ",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -105736871547758,
+  "value": "connectivity",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103877150708590,
+  "value": "Closed due to user request",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106355346838382,
+  "value": "Reconnect stopped",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -103993114825582,
+  "value": "Reconnecting..",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -104057539335022,
+  "value": "<strong><html><font color=\"#FF3D00\">Disconnected</strong>",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -105805591024494,
+  "value": "Wakelock release",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -105878605468526,
+  "value": "SSH Stopped",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106552915333998,
+  "value": "notification",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106625929778030,
+  "value": "ssh",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106643109647214,
+  "value": "SSH Tunnel notification",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106608749908846,
+  "value": "ssh",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -105792706122606,
+  "value": "en",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -105930145076078,
+  "value": "START_SSH_SERVICE",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106007454487406,
+  "value": "STOP_SSH",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106046109193070,
+  "value": "RECONNECT",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106089058866030,
+  "value": "power",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106114828669806,
+  "value": "SSH Injector",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106170663244654,
+  "value": "Wakelock aquired",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106243677688686,
+  "value": "Start SSH Tunnel",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106316692132718,
+  "value": "password",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106432656249710,
+  "value": "Hostkey fingerprint: ",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -106527145530222,
+  "value": "SSH: ",
+  "files": [
+   "SSHVPNService.java"
+  ]
+ },
+ {
+  "const": -5943306425198,
+  "value": "autostart_profile_name",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6042090673006,
+  "value": "autostart_profile_name",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6140874920814,
+  "value": "autostart",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6183824593774,
+  "value": "net.openvpn.openvpn.AUTOSTART_PROFILE_NAME",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6368508187502,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6445817598830,
+  "value": "CLIBASE: autostart profile='",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -6570371650414,
+  "value": "' intent=",
+  "files": [
+   "OpenVPNRebootReceiver.java"
+  ]
+ },
+ {
+  "const": -17093041525614,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -17153171067758,
+  "value": "Ads failed to load",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -17234775446382,
+  "value": "Ads failed to load",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -17316379825006,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -17376509367150,
+  "value": "onAdLoaded",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -111535077397358,
+  "value": "CUSTOM_TUNNEL_TYPE",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112823567586158,
+  "value": "CustomWSType",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112583049417582,
+  "value": "IS_DAFUALT_PROXY",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -19253410075502,
+  "value": "[Default]",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -19296359748462,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -114524374635374,
+  "value": "CustomDNSTTResolver",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -21246274900846,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -21138900718446,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -21199030260590,
+  "value": "onAdLoaded",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54854393992046,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54914523534190,
+  "value": "alarmSetTime",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -28182647083886,
+  "value": "#.##",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54351882818414,
+  "value": "Malformed text",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54416307327854,
+  "value": "Version",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54450667066222,
+  "value": "Version",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -54485026804590,
+  "value": "Error deleting old files",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32391715033966,
+  "value": "finish",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51740542702446,
+  "value": "net.openvpn.openvpn.MENU_KEY",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32421779805038,
+  "value": "renz.javacodez.vpn.utils.RenzUtils",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32572103660398,
+  "value": "containsArray",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32632233202542,
+  "value": "App Error",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51615988650862,
+  "value": "net.openvpn.openvpn.MENU_KEY",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42656686871406,
+  "value": "TB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42669571773294,
+  "value": "GB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42682456675182,
+  "value": "MB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42708226478958,
+  "value": "%.0f",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42695341577070,
+  "value": "KB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42729701315438,
+  "value": "%.2f %s",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42764061053806,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9052862747502,
+  "value": "%02d:%02d:%02d",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42768356021102,
+  "value": " (↓)",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42789830857582,
+  "value": " (↑)",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42579377460078,
+  "value": "#FF0000",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42613737198446,
+  "value": "127.0.0.1",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50512182055790,
+  "value": "START_TIME",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51233736561518,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51293866103662,
+  "value": "CLI: app is already authorized as VPN actor",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50799944864622,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50860074406766,
+  "value": "CLI: requesting VPN actor rights",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51001808327534,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51061937869678,
+  "value": "CLI: requesting VPN actor rights failed",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50559426696046,
+  "value": "PAUSE_TIME",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32292930786158,
+  "value": "/META-INF/BNDLTOOL.RSA",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -32194146538350,
+  "value": "/META-INF/GOOGLEKE.RSA",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42987399353198,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42991694320494,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42995989287790,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -43000284255086,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42811305694062,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42815600661358,
+  "value": "00:00:00",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42854255367022,
+  "value": "OKB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42871435236206,
+  "value": "OKB",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34466184237934,
+  "value": "activity",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50606671336302,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36922905531246,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -28586374009710,
+  "value": "expire",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36317315142510,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36338789978990,
+  "value": "no load",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36373149717358,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36394624553838,
+  "value": "noload",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -36424689324910,
+  "value": "Load Networks: ",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40311634727790,
+  "value": "No Update",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40354584400750,
+  "value": "Sorry there's no Update Available. Your current Server Version is ",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40642347209582,
+  "value": "Ok",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42210010272622,
+  "value": "net.openvpn.openvpn.AUTOSTART_PROFILE_NAME",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42394693866350,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42454823408494,
+  "value": "CLI: autostart: %s",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41011714397038,
+  "value": "Invalid Account!",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41084728841070,
+  "value": "OPEN_URL:",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41127678514030,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41243642631022,
+  "value": "com.android.browser.application_id",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41393966486382,
+  "value": "%s : %s",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42536427787118,
+  "value": "127.0.0.1",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41428326224750,
+  "value": "autostart_finish_on_connect",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -8893948957550,
+  "value": "DISABLE_CLIENT_CERT",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40131246101358,
+  "value": "classes3.dex",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40187080676206,
+  "value": "a.rlb",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40212850479982,
+  "value": "a.rlb",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40238620283758,
+  "value": "Update Successs!",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34831256458094,
+  "value": "%02d:%02d:%02d",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -3950441599854,
+  "value": "Servers",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51865096754030,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51925226296174,
+  "value": "CLI: onCreateContextMenu",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42055391449966,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -42115520992110,
+  "value": "CLI: onDestroy called",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51594513814382,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -108176412971886,
+  "value": "SERVER_SELECTED_NAME",
+  "files": [
+   "RAJTunnelVPNMain.java",
+   "z2.java"
+  ]
+ },
+ {
+  "const": -108485650617198,
+  "value": "SERVER_SELECTED_POSITION",
+  "files": [
+   "RAJTunnelVPNMain.java",
+   "z2.java"
+  ]
+ },
+ {
+  "const": -40655232111470,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40715361653614,
+  "value": "CLI: onNewIntent intent=%s",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -43494205494126,
+  "value": "Please allow to show app notification!",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -43661709218670,
+  "value": "android.permission.READ_EXTERNAL_STORAGE",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9117287256942,
+  "value": "START_PATH",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9164531897198,
+  "value": "CAN_SELECT_DIR",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9228956406638,
+  "value": "SELECTION_MODE",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9293380916078,
+  "value": "OPTION_ONE_CLICK_SELECT",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -9396460131182,
+  "value": "OPTION_PROMPT",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41939427332974,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41999556875118,
+  "value": "CLI: onStart",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41703204131694,
+  "value": "OpenVPNClient",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -41763333673838,
+  "value": "CLI: onStop",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51538679239534,
+  "value": "expand_stats",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -51482844664686,
+  "value": "expand_stats",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -33117564506990,
+  "value": "Ads is loading",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -33181989016430,
+  "value": "Watch Ads",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34547788616558,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34569263453038,
+  "value": "Info",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34590738289518,
+  "value": "Name",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34612213125998,
+  "value": "Auto",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34633687962478,
+  "value": "Protocol",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34672342668142,
+  "value": "UDP",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34689522537326,
+  "value": "OVPN",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34710997373806,
+  "value": "Auto",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34732472210286,
+  "value": "Subname",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34766831948654,
+  "value": "Subname",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -34801191687022,
+  "value": "flag",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -40955879822190,
+  "value": "expand_stats",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -35728904622958,
+  "value": "Version",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -33280773264238,
+  "value": "Custom Setup",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -111805660337006,
+  "value": "CUSTOM_SNI",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -111852904977262,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -111904444584814,
+  "value": "CUSTOM_PAYLOAD_INPUT",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -111994638898030,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112235157066606,
+  "value": "CUSTOM_PROXY",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112290991641454,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112351121183598,
+  "value": "CUSTOM_PROXY_PORT",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112428430594926,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -112510034973550,
+  "value": "IS_DAFUALT_PROXY",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -113888719475566,
+  "value": "V2RAY_BUG_HOST",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -113953143985006,
+  "value": "",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -113764165423982,
+  "value": "V2RAY_WS_TYPE",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -114051928232814,
+  "value": "V2RAY_REVERSE_ADDRESS",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -33336607839086,
+  "value": "Getting dns address please wait...",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -33486931694446,
+  "value": "[Default]",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -50628146172782,
+  "value": "Please start VPN first",
+  "files": [
+   "RAJTunnelVPNMain.java"
+  ]
+ },
+ {
+  "const": -63641897079662,
+  "value": "Stopping UDP....",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -73215379182446,
+  "value": "UDP Tunnel stopped",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -73451602383726,
+  "value": "%s/%b/%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -73490257089390,
+  "value": "ConnectivityReceiver",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -73580451402606,
+  "value": "pause_vpn_on_blanked_screen",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92967933776750,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74009948132206,
+  "value": "EVENT: %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74052897805166,
+  "value": "%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74065782707054,
+  "value": " info='%s'",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74113027347310,
+  "value": " trans=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74155977020270,
+  "value": "UTF-8",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74181746824046,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74246171333486,
+  "value": "UnsupportedEncodingException when decoding profile filename",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74503869371246,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74542524076910,
+  "value": "client.ovpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74594063684462,
+  "value": "epki_alias",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74641308324718,
+  "value": "bundled",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74675668063086,
+  "value": "bundled",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74851761722222,
+  "value": "Profile name='%s' ofn='%s' userlock=%s auto=%b epki=%b/%s sl=%s sc=%s dc=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75178179236718,
+  "value": "null",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75199654073198,
+  "value": "null",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75272668517230,
+  "value": "UTF-8",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75298438321006,
+  "value": ".ovpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75324208124782,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75388632634222,
+  "value": "UnsupportedEncodingException when encoding profile filename",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75221128909678,
+  "value": ".ovpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75246898713454,
+  "value": ".OVPN",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75646330671982,
+  "value": "bundled",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75680690410350,
+  "value": "assets",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75710755181422,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75715050148718,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75753704854382,
+  "value": "app private storage",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75839604200302,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -75904028709742,
+  "value": "PROFILE: error reading %s from %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -76050057597806,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -76114482107246,
+  "value": "PROFILE: error evaluating %s: %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -76256216028014,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -76320640537454,
+  "value": "PROFILE: error enumerating assets",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -76969180599150,
+  "value": "RECONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77012130272110,
+  "value": "%s/%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77037900075886,
+  "value": ",",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80615607833454,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80680032342894,
+  "value": "BUILDER_ERROR: %s %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77411562230638,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77475986740078,
+  "value": "BUILDER: add_address %s/%d %s ipv6=%b net30=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77677850202990,
+  "value": "tun_builder_add_address",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78880441045870,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78944865555310,
+  "value": "BUILDER: add_dns_server %s ipv6=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79095189410670,
+  "value": "tun_builder_add_dns_server",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78167476474734,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78231900984174,
+  "value": "BUILDER: add_route %s/%d ipv6=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78373634904942,
+  "value": "tun_builder_add_route",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79211153527662,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79275578037102,
+  "value": "BUILDER: add_search_domain %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79404427055982,
+  "value": "tun_builder_add_search_domain",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80083031888750,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80147456398190,
+  "value": "BUILDER: establish",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80229060776814,
+  "value": "tun_builder_establish",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78468124185454,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78532548694894,
+  "value": "BUILDER: exclude_route %s/%d ipv6=%b (NOT IMPLEMENTED)",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78768771896174,
+  "value": "tun_builder_exclude_route",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77780929418094,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77845353927534,
+  "value": "BUILDER: reroute_gw ipv4=%b ipv6=%b flags=%d",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78038627455854,
+  "value": "0.0.0.0",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -78072987194222,
+  "value": "tun_builder_add_route",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79533276074862,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79597700584302,
+  "value": "BUILDER: set_mtu %d",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79683599930222,
+  "value": "tun_builder_set_mtu",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77046490010478,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77110914519918,
+  "value": "BUILDER: set_remote_address %s ipv6=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -77278418244462,
+  "value": "tun_builder_set_remote_address",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79769499276142,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79833923785582,
+  "value": "BUILDER: set_session_name %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -79958477837166,
+  "value": "tun_builder_set_session_name",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80323550057326,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80387974566766,
+  "value": "BUILDER: teardown disconnect=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80525413520238,
+  "value": "tun_builder_teardown",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101330235102062,
+  "value": "net.openvpn.openvpn.",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101420429415278,
+  "value": "net.openvpn.openvpn.BIND",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101527803597678,
+  "value": "net.openvpn.openvpn.CONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101648062681966,
+  "value": "net.openvpn.openvpn.DELETE_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101798386537326,
+  "value": "net.openvpn.openvpn.DISCONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101931530523502,
+  "value": "net.openvpn.openvpn.IMPORT_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102081854378862,
+  "value": "net.openvpn.openvpn.ACTION_IMPORT_PROFILE_VIA_PATH",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102300897710958,
+  "value": "net.openvpn.openvpn.RENAME_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102451221566318,
+  "value": "net.openvpn.openvpn.ACTION_SUBMIT_PROXY_CREDS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102648790061934,
+  "value": "net.openvpn.openvpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102734689407854,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -102799113917294,
+  "value": "ACTION_CONNECT_UDP_TUNNEL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80770226656110,
+  "value": "HH:mm:ss.SSS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91284306596718,
+  "value": "TB",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91297191498606,
+  "value": "GB",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91310076400494,
+  "value": "MB",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91335846204270,
+  "value": "%.0f",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91322961302382,
+  "value": "KB",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91357321040750,
+  "value": "%.2f %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85211222840174,
+  "value": "PROFILE_PARSE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85297122186094,
+  "value": "%s : %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85331481924462,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85370136630126,
+  "value": "auth",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85391611466606,
+  "value": "pk",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85404496368494,
+  "value": "PROFILE_IMPORT_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85503280616302,
+  "value": "PROFILE_WRITE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91851242279790,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91915666789230,
+  "value": "SERV: client attach n_clients=%d",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96519871730542,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96584296239982,
+  "value": "EXIT: connect() exited, err=%b, msg='%s'",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97314440680302,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97378865189742,
+  "value": "STAT %s=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96760389899118,
+  "value": "CORE_THREAD_ABANDONED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96854879179630,
+  "value": "CORE_THREAD_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96932188590958,
+  "value": "CORE_THREAD_ABANDONED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97026677871470,
+  "value": "CORE_THREAD_INACTIVE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95373115462510,
+  "value": "-----BEGIN CERTIFICATE-----%n%s-----END CERTIFICATE-----%n",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95626518532974,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95690943042414,
+  "value": "EPKI error in external_pki_cert_request",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95862741734254,
+  "value": "EPKI error in external_pki_sign_request: %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96051720295278,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96116144804718,
+  "value": "EPKI: normal mode",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96193454216046,
+  "value": "RSA/ECB/PKCS1PADDING",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96283648529262,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -96348073038702,
+  "value": "EPKI error in external_pki_sign_request",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93680898347886,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85112438592366,
+  "value": "PROFILE_FILENAME_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84601337484142,
+  "value": "PROFILE_",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84639992189806,
+  "value": "PROFILE_MERGE_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84734481470318,
+  "value": "PROFILE_PARSE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84820380816238,
+  "value": "%s : %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84854740554606,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84893395260270,
+  "value": "auth",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84914870096750,
+  "value": "pk",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84927754998638,
+  "value": "PROFILE_IMPORT_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85026539246446,
+  "value": "PROFILE_WRITE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94552776708974,
+  "value": "Frame",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94578546512750,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94582841480046,
+  "value": "UNUSED OPTIONS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94647265989486,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94651560956782,
+  "value": "TO PROXY",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94690215662446,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94694510629742,
+  "value": "FROM PROXY",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94741755269998,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94746050237294,
+  "value": "Tunnel Options",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94810474746734,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94814769714030,
+  "value": "EVENT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94840539517806,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94844834485102,
+  "value": "hh:mm:ss a",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94892079125358,
+  "value": "[%s]: %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97426109829998,
+  "value": "bundled",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97460469568366,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92263559140206,
+  "value": "bundled",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92297918878574,
+  "value": "imported",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92336573584238,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92400998093678,
+  "value": "SERV: refresh profiles:",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92504077308782,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92568501818222,
+  "value": "SERV: %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91391680779118,
+  "value": "net.openvpn.openvpn.BIND",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91499054961518,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91563479470958,
+  "value": "SERV: onBind SUPER intent=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91688033522542,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91752458031982,
+  "value": "SERV: onBind intent=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81526140900206,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81590565409646,
+  "value": "SERV: Service onCreate called",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81350047241070,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81414471750510,
+  "value": "SERV: crypto_self_test\n%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81719414428526,
+  "value": "notification",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97499124274030,
+  "value": "RECONNECTING",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97554958848878,
+  "value": "RESOLVE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97589318587246,
+  "value": "WAIT_PROXY",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97636563227502,
+  "value": "WAIT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97658038063982,
+  "value": "CONNECTING",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97705282704238,
+  "value": "GET_CONFIG",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97752527344494,
+  "value": "ASSIGN_IP",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97795477017454,
+  "value": "ADD_ROUTES",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97842721657710,
+  "value": "CONNECTED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97885671330670,
+  "value": "DISCONNECTED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97941505905518,
+  "value": "AUTH_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97993045513070,
+  "value": "PEM_PASSWORD_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98070354924398,
+  "value": "CERT_VERIFY_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98143369368430,
+  "value": "TLS_VERSION_MIN",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98212088845166,
+  "value": "DYNAMIC_CHALLENGE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98289398256494,
+  "value": "TUN_SETUP_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98362412700526,
+  "value": "TUN_IFACE_CREATE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98435427144558,
+  "value": "TAP_NOT_SUPPORTED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98512736555886,
+  "value": "PROFILE_NOT_FOUND",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98590045967214,
+  "value": "CONFIG_FILE_PARSE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98693125182318,
+  "value": "NEED_CREDS_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98766139626350,
+  "value": "CREDS_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98817679233902,
+  "value": "CONNECTION_TIMEOUT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98899283612526,
+  "value": "INACTIVE_TIMEOUT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98972298056558,
+  "value": "INFO",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -98993772893038,
+  "value": "WARN",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99015247729518,
+  "value": "PROXY_NEED_CREDS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99088262173550,
+  "value": "PROXY_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99139801781102,
+  "value": "PROXY_CONTEXT_EXPIRED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99234291061614,
+  "value": "EPKI_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99281535701870,
+  "value": "EPKI_INVALID_ALIAS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99363140080494,
+  "value": "PAUSE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99388909884270,
+  "value": "RESUME",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99418974655342,
+  "value": "CORE_THREAD_ACTIVE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99500579033966,
+  "value": "CORE_THREAD_INACTIVE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99590773347182,
+  "value": "CORE_THREAD_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99668082758510,
+  "value": "CORE_THREAD_ABANDONED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99762572039022,
+  "value": "CLIENT_HALT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99814111646574,
+  "value": "CLIENT_RESTART",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99878536156014,
+  "value": "PROFILE_IMPORT_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -99977320403822,
+  "value": "PROFILE_DELETE_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100076104651630,
+  "value": "PROFILE_DELETE_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100170593932142,
+  "value": "PROFILE_PARSE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100256493278062,
+  "value": "PROFILE_CONFLICT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100329507722094,
+  "value": "PROFILE_WRITE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100415407068014,
+  "value": "PROFILE_FILENAME_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100514191315822,
+  "value": "PROFILE_RENAME_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100612975563630,
+  "value": "PROFILE_RENAME_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100707464844142,
+  "value": "PROFILE_MERGE_EXCEPTION",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100810544059246,
+  "value": "PROFILE_MERGE_OVPN_EXT_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -100930803143534,
+  "value": "PROFILE_MERGE_OVPN_FILE_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101055357195118,
+  "value": "PROFILE_MERGE_REF_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101154141442926,
+  "value": "PROFILE_MERGE_MULTIPLE_REF_FAIL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -101291580396398,
+  "value": "UI_RESET",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80826061230958,
+  "value": "RECONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80869010903918,
+  "value": "RECONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -80911960576878,
+  "value": "android.net.conn.CONNECTIVITY_CHANGE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81070874366830,
+  "value": "android.intent.action.SCREEN_ON",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81208313320302,
+  "value": "android.intent.action.SCREEN_OFF",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81775249003374,
+  "value": "proxies.json",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93358775800686,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93423200310126,
+  "value": "SERV: onDestroy called",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93521984557934,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93586409067374,
+  "value": "SERV: onRevoke called",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81831083578222,
+  "value": "net.openvpn.openvpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81916982924142,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -81981407433582,
+  "value": "SERV: onStartCommand action=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82114551419758,
+  "value": "ACTION_CONNECT_UDP_TUNNEL",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82226220569454,
+  "value": "Starting UDP Thread",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -83501825856366,
+  "value": "CONNECTING",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -83549070496622,
+  "value": "",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82312119915374,
+  "value": "net.openvpn.openvpn.CONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82432378999662,
+  "value": "net.openvpn.openvpn.ACTION_SUBMIT_PROXY_CREDS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87444605834094,
+  "value": ".PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87367296422766,
+  "value": "PROFILE_NOT_FOUND",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87483260539758,
+  "value": ".PROXY_NAME",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87534800147310,
+  "value": ".PROXY_USERNAME",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87603519624046,
+  "value": ".PROXY_PASSWORD",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87672239100782,
+  "value": ".PROXY_REMEMBER_CREDS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87766728381294,
+  "value": "PROXY_CONTEXT_EXPIRED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82629947495278,
+  "value": "net.openvpn.openvpn.DISCONNECT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89098168243054,
+  "value": ".STOP",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82763091481454,
+  "value": "net.openvpn.openvpn.IMPORT_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84489668334446,
+  "value": ".CONTENT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84528323040110,
+  "value": ".FILENAME",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84571272713070,
+  "value": ".MERGE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -82913415336814,
+  "value": "net.openvpn.openvpn.ACTION_IMPORT_PROFILE_VIA_PATH",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84330754544494,
+  "value": ".PATH",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84356524348270,
+  "value": "PROFILE_",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84395179053934,
+  "value": "PROFILE_MERGE_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -83132458668910,
+  "value": "net.openvpn.openvpn.DELETE_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85589179962222,
+  "value": ".PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85627834667886,
+  "value": "auth",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85649309504366,
+  "value": "pk",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85662194406254,
+  "value": "PROFILE_DELETE_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85760978654062,
+  "value": "PROFILE_DELETE_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85855467934574,
+  "value": "PROFILE_DELETE_FAILED",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -83282782524270,
+  "value": "net.openvpn.openvpn.RENAME_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85949957215086,
+  "value": ".PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -85988611920750,
+  "value": ".NEW_PROFILE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86044446495598,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86108871005038,
+  "value": "PROFILE_RENAME_FAILED: rename preliminary checks",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86413813683054,
+  "value": "%s/%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86439583486830,
+  "value": "%s/%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86465353290606,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86529777800046,
+  "value": "PROFILE_RENAME_FAILED: post-rename profile get",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86826130543470,
+  "value": "auth",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86847605379950,
+  "value": "pk",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86860490281838,
+  "value": "PROFILE_RENAME_SUCCESS",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -86959274529646,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -87023699039086,
+  "value": "PROFILE_RENAME_FAILED: rename operation from='%s' to='%s'",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -83433106379630,
+  "value": "DELETE_PROFILES",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84296394806126,
+  "value": "auth",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84317869642606,
+  "value": "pk",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93156912337774,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93221336847214,
+  "value": "SERV: onUnbind called intent=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95175546966894,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -95239971476334,
+  "value": "pause_on_connection_timeout %b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97116872184686,
+  "value": "autostart_profile_name",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -97215656432494,
+  "value": "autostart_profile_name",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89123938046830,
+  "value": "enable_notifications",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89214132360046,
+  "value": "connect-retry 1\nconnect-retry-max 100\nhttp-proxy %s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89437470659438,
+  "value": "127.0.0.1 ",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89484715299694,
+  "value": "tun_persist",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89806837846894,
+  "value": "google_dns_fallback",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89892737192814,
+  "value": "alt_proxy",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -89935686865774,
+  "value": "legacy-default",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90000111375214,
+  "value": "cert_profile_insecure",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90094600655726,
+  "value": "insecure-default",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90167615099758,
+  "value": "tls_version_min_override",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -74710027801454,
+  "value": "epki_alias",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90274989282158,
+  "value": "DISABLE_CLIENT_CERT",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90360888628078,
+  "value": "CONFIG_FILE_PARSE_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90463967843182,
+  "value": "NEED_CREDS_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90536982287214,
+  "value": "CREDS_ERROR",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90588521894766,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -90652946404206,
+  "value": "SERV: CONNECT prof=%s user=%s proxy=%s serv=%s proto=%s ipv6=%s to=%s resp=%s epki_alias=%s comp=%s",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91082443133806,
+  "value": "undef",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91108212937582,
+  "value": "CORE_THREAD_ACTIVE",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -91189817316206,
+  "value": "openvpn",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94930733831022,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -94995158340462,
+  "value": "SOCKET PROTECT: fd=%d protected status=%b",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -84047286702958,
+  "value": "Stopping UDP Tunnel",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -92972228744046,
+  "value": "OpenVPNService",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -93036653253486,
+  "value": "SERV: stop_thread succeeded",
+  "files": [
+   "RenzOpenVPNservice.java"
+  ]
+ },
+ {
+  "const": -4074995651438,
+  "value": "net.openvpn.openvpn.BIND",
+  "files": [
+   "RAJTunnelVPNLog.java"
+  ]
+ },
+ {
+  "const": -69895369462638,
+  "value": "injector",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68946181690222,
+  "value": "\\[.*?\\*(.*?[0-9])\\]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69032081036142,
+  "value": "",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69036376003438,
+  "value": "]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68697073587054,
+  "value": "[cr*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68718548423534,
+  "value": "[cr*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68740023260014,
+  "value": "\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68748613194606,
+  "value": "[lf*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68770088031086,
+  "value": "[lf*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68791562867566,
+  "value": "\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68800152802158,
+  "value": "[crlf*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68830217573230,
+  "value": "[crlf*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68860282344302,
+  "value": "\r\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68873167246190,
+  "value": "[lfcr*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68903232017262,
+  "value": "[lfcr*",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68933296788334,
+  "value": "\n\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67717821043566,
+  "value": "[split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67752180781934,
+  "value": "[split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65995539157870,
+  "value": "Premature connection close",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66111503274862,
+  "value": "Malformed line sent by the server, the line does not end correctly.",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66403561050990,
+  "value": "The server sent a too long line: ",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66549589939054,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69483052602222,
+  "value": "HTTP/1.1 200 OK\r\n\r\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66622604383086,
+  "value": "https://",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -109722601198446,
+  "value": "SNI",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -109739781067630,
+  "value": "",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66596834579310,
+  "value": "[rlb]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66661259088750,
+  "value": ":",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66669849023342,
+  "value": "/",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66678438957934,
+  "value": "(SNI) Host: ",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66734273532782,
+  "value": "[random]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66772928238446,
+  "value": "[random]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66811582944110,
+  "value": "[repeat]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66850237649774,
+  "value": "[repeat]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66888892355438,
+  "value": "\r\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66901777257326,
+  "value": "\\r\\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66923252093806,
+  "value": "Injecting",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -66966201766766,
+  "value": "[split_delay]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67026331308910,
+  "value": "[split_delay]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67086460851054,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67133705491310,
+  "value": "[split_instant]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67202424968046,
+  "value": "[split_instant]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67271144444782,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67318389085038,
+  "value": "[instant_split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67387108561774,
+  "value": "[instant_split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67455828038510,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67503072678766,
+  "value": "[delay_split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67670576403310,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67563202220910,
+  "value": "[delay_split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67623331763054,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69646261359470,
+  "value": "%s: %s",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67786540520302,
+  "value": "",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67790835487598,
+  "value": "\r\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67803720389486,
+  "value": " ",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67812310324078,
+  "value": ":",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -109220090024814,
+  "value": "HTTP_PAYLOAD",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -109275924599662,
+  "value": "",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67820900258670,
+  "value": "[rlb]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67846670062446,
+  "value": "JX",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67859554964334,
+  "value": "[ua]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67881029800814,
+  "value": "http.agent",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67928274441070,
+  "value": "POSTT",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67954044244846,
+  "value": "POST",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -67975519081326,
+  "value": "[real_raw]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68022763721582,
+  "value": "[raw]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68048533525358,
+  "value": "[method]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68087188231022,
+  "value": "[host_port]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68138727838574,
+  "value": "[host]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68168792609646,
+  "value": "[port]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68198857380718,
+  "value": "[protocol]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68246102020974,
+  "value": "[cr]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68267576857454,
+  "value": "\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68276166792046,
+  "value": "[lf]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68297641628526,
+  "value": "\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68306231563118,
+  "value": "[crlf]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68336296334190,
+  "value": "\r\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68349181236078,
+  "value": "[lfcr]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68379246007150,
+  "value": "\n\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68392130909038,
+  "value": "\\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68405015810926,
+  "value": "\r",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68413605745518,
+  "value": "\\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68426490647406,
+  "value": "\n",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68435080581998,
+  "value": "[split]",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68469440320366,
+  "value": "Payload Error",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68529569862510,
+  "value": "Payload Error",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -68589699404654,
+  "value": "Payload is null or empty",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65020581581678,
+  "value": "ISO-8859-1",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65067826221934,
+  "value": "<b>Status<b/>: %s",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65145135633262,
+  "value": "HTTP/",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65170905437038,
+  "value": "The proxy did not send back a valid HTTP response.",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65608992101230,
+  "value": "The proxy did not send back a valid HTTP response.",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65828035433326,
+  "value": "HTTP/1.1 200 Con",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65901049877358,
+  "value": "Sending 200 OK Status",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -65389948769134,
+  "value": "The proxy did not send back a valid HTTP response.",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -63985494463342,
+  "value": "<b>InjectorService Stopped</b>",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -63744976294766,
+  "value": "START",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -63770746098542,
+  "value": "InjectorThread",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -63835170607982,
+  "value": "<b>Injector Service Start</b>",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -63964019626862,
+  "value": "STOP",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69044965938030,
+  "value": "Listening to localport %s",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69156635087726,
+  "value": "Listening for incoming connection",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69568951948142,
+  "value": "Socket Protected!",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69354203583342,
+  "value": "16384",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69379973387118,
+  "value": "32768",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69302663975790,
+  "value": "16384",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69328433779566,
+  "value": "32768",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69676326130542,
+  "value": "%s: %s",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -69405743190894,
+  "value": "InjectorException",
+  "files": [
+   "RenzInjectorService.java"
+  ]
+ },
+ {
+  "const": -73739365192558,
+  "value": "RECONNECT",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -127920706414,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -200935150446,
+  "value": "onAdFailedToLoad: ",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -3366654830,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -76381098862,
+  "value": "onAdLoaded.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -282539529070,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -355553973102,
+  "value": "onAdDismissedFullScreenContent.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -492992926574,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -566007370606,
+  "value": "onAdFailedToShowFullScreenContent: ",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -720626193262,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -793640637294,
+  "value": "onAdShowedFullScreenContent.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1498015273838,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -918194688878,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -991209132910,
+  "value": "The app open ad is already showing.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1145827955566,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1218842399598,
+  "value": "The app open ad is not ready yet.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1364871287662,
+  "value": "AppOpenAdManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1437885731694,
+  "value": "Will show ad.",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1571029717870,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1802957951854,
+  "value": "sourceDir",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1721353573230,
+  "value": "getApplicationInfo",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1845907624814,
+  "value": "base.apk",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -1884562330478,
+  "value": "renz.javacodez.vpn.utils.RenzUtils",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2034886185838,
+  "value": "checkAppSign",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2090720760686,
+  "value": "getPackageManager",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2168030172014,
+  "value": "getInstallerPackageName",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2271109387118,
+  "value": ".np",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2288289256302,
+  "value": ".mt",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2305469125486,
+  "value": "ovpn3",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2580347032430,
+  "value": "OpenVPNService",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2644771541870,
+  "value": "SERV: crypto_self_test\n%s",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2331238929262,
+  "value": "renz.javacodez.vpn.utils.RenzUtils",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2481562784622,
+  "value": "initializeApp",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -2541692326766,
+  "value": "activity",
+  "files": [
+   "RAJTunnelVPNApplication.java"
+  ]
+ },
+ {
+  "const": -35810509001582,
+  "value": "To connect to GTM No Load No Blocking, Make sure that you are now in the Magic IP. Click the button to check your IP!",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20614914708334,
+  "value": "Checking Updates...",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20700814054254,
+  "value": "Thanks for supporting us❤️",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20816778171246,
+  "value": "TAG",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20833958040430,
+  "value": "The ad was dismissed.",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20928447320942,
+  "value": "TAG",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -20945627190126,
+  "value": "The ad failed to show.",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -21044411437934,
+  "value": "TAG",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -21061591307118,
+  "value": "The ad was shown.",
+  "files": [
+   "c.java"
+  ]
+ },
+ {
+  "const": -2756440691566,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -2833750102894,
+  "value": "CLIBASE: onServiceConnected: ",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -2962599121774,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3039908533102,
+  "value": "CLIBASE: onServiceDisconnected",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -11569713582958,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3662678791022,
+  "value": "Expired",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3697038529390,
+  "value": "Your time is expired, please add time now!",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3881722123118,
+  "value": "Add Time",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3920376828782,
+  "value": "Cancel",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -6853839491950,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -6931148903278,
+  "value": "CLIBASE: submitDisconnectIntent",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -6613321323374,
+  "value": "net.openvpn.openvpn.DISCONNECT",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -6746465309550,
+  "value": "net.openvpn.openvpn.STOP",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -4182369833838,
+  "value": "OpenVPNClientBase",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -4259679245166,
+  "value": "CLIBASE: doUnbindService",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -92057400709998,
+  "value": "OpenVPNService",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -92121825219438,
+  "value": "SERV: client detach n_clients=%d",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -92834789790574,
+  "value": "UI_RESET",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3581074412398,
+  "value": "classes3.dex",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3636908987246,
+  "value": "a.rlb",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -3984801338222,
+  "value": "Networks",
+  "files": [
+   "b.java"
+  ]
+ },
+ {
+  "const": -129101493637998,
+  "value": "ADS_MANAGER_INTERVAL_TIME",
+  "files": [
+   "AdsManagerActivity.java"
+  ]
+ },
+ {
+  "const": -121486516622190,
+  "value": "OVPN",
+  "files": [
+   "a3.java"
+  ]
+ },
+ {
+  "const": -121507991458670,
+  "value": "SSH",
+  "files": [
+   "a3.java"
+  ]
+ },
+ {
+  "const": -121525171327854,
+  "value": "UDP",
+  "files": [
+   "a3.java"
+  ]
+ },
+ {
+  "const": -121542351197038,
+  "value": "V2Ray",
+  "files": [
+   "a3.java"
+  ]
+ },
+ {
+  "const": -121568121000814,
+  "value": "SLOW DNS",
+  "files": [
+   "a3.java"
+  ]
+ },
+ {
+  "const": -34822666523502,
+  "value": "",
+  "files": [
+   "bp0.java"
+  ]
+ },
+ {
+  "const": -34826961490798,
+  "value": "",
+  "files": [
+   "bp0.java"
+  ]
+ },
+ {
+  "const": -34895680967534,
+  "value": "Name",
+  "files": [
+   "bp0.java"
+  ]
+ },
+ {
+  "const": -19300654715758,
+  "value": "",
+  "files": [
+   "bh0.java"
+  ]
+ },
+ {
+  "const": -21306404442990,
+  "value": "DNS Cannot be empty!",
+  "files": [
+   "cq0.java"
+  ]
+ },
+ {
+  "const": -113201524708206,
+  "value": "custom_dns_enable",
+  "files": [
+   "cq0.java"
+  ]
+ },
+ {
+  "const": -113364733465454,
+  "value": "custom_primary_dns",
+  "files": [
+   "cq0.java"
+  ]
+ },
+ {
+  "const": -113540827124590,
+  "value": "custom_secondary_dns",
+  "files": [
+   "cq0.java"
+  ]
+ },
+ {
+  "const": -11647022994286,
+  "value": "Checking Updates",
+  "files": [
+   "cp0.java"
+  ]
+ },
+ {
+  "const": -11720037438318,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "dp0.java"
+  ]
+ },
+ {
+  "const": -11836001555310,
+  "value": "https://t.me/rajtunnelvpn",
+  "files": [
+   "dp0.java"
+  ]
+ },
+ {
+  "const": -21396598756206,
+  "value": "Current IP: %s",
+  "files": [
+   "dq0.java"
+  ]
+ },
+ {
+  "const": -54592400986990,
+  "value": "OpenVPNClient",
+  "files": [
+   "f0.java"
+  ]
+ },
+ {
+  "const": -54652530529134,
+  "value": "%s: %s",
+  "files": [
+   "f0.java"
+  ]
+ },
+ {
+  "const": -54682595300206,
+  "value": "OpenVPNClient",
+  "files": [
+   "fi.java"
+  ]
+ },
+ {
+  "const": -54742724842350,
+  "value": "%s: %s",
+  "files": [
+   "fi.java"
+  ]
+ },
+ {
+  "const": -54772789613422,
+  "value": "SHOW_GDPR_ONE_TIME",
+  "files": [
+   "fi.java"
+  ]
+ },
+ {
+  "const": -11947670705006,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "ep0.java"
+  ]
+ },
+ {
+  "const": -12063634821998,
+  "value": "https://whatsapp.com/channel/0029VbCTogKB4hdPlqP2ls3A",
+  "files": [
+   "ep0.java"
+  ]
+ },
+ {
+  "const": -19859000464238,
+  "value": "counter",
+  "files": [
+   "fq0.java"
+  ]
+ },
+ {
+  "const": -19893360202606,
+  "value": "expire",
+  "files": [
+   "fq0.java"
+  ]
+ },
+ {
+  "const": -19923424973678,
+  "value": "Invalid Clicks!",
+  "files": [
+   "fq0.java"
+  ]
+ },
+ {
+  "const": -114610273981294,
+  "value": "afgODhBEU2BhV11cECgOEB8cHhAa+A4OEEFTYGRTYGEQKA5J+A4ODg5p+A4ODg4ODhA8T1tTECgOEENcV2JTUg5BYk9iU2EOHxAa+A4ODg4ODhBBU2BkU2A3PjZdYWIQKA4QHyEmHCAeHxwnIBwgIicQGvgODg4ODg4QMU9iU1VdYGcQKA4QPkAzOzdDOxAa+A4ODg4ODhA9XlNcRD48QjE+Pl1gYhAoDhAfHyciEBr4Dg4ODg4OED1eU1xEPjxBQTo+XWBiECgOECIiIRAa+A4ODg4ODhA+YF1iXVFdWhAoDh4a+A4ODg4ODhA+YF1iXVFdWkJXYlpTECgOEDQvQUIzQBD4Dg4ODmv4Dg5LGvgODhA8U2JlXWBZYRAoDkn4Dg4ODmn4Dg4ODg4OEDxPW1MQKA4QNC8xMzA9PTkOPi8xOQ43PDgzMUIQGvgODg4ODg4QPk9nWl1PUhAoDhAxPTw8MzFCDklWXWFiTV5dYGJLDkleYF1iXVFdWktJUWBaVEs2XWFiKA5bHFRPUVNQXV1ZHFFdW0lRYFpUS0YbPVxaV1xTGzZdYWIoDlscVE9RU1BdXVkcUV1bSVFgWlRLRhs0XWBlT2BSGzZdYWIoDlscVE9RU1BdXVkcUV1bSVFgWlRLMV1cXFNRYlddXCgOOVNTXhsvWldkU0lRYFpUS0lRYFpUSxAa+A4ODg4ODhA3XFRdECgOEBAa+A4ODg4ODhBCY1xcU1pCZ15TECgOIBr4Dg4ODg4OEDI8QUFTYGRTYDZdYWIQKA4QEBr4Dg4ODg4OEDNcT1BaU0VBECgOVE9aYVMa+A4ODg4ODhA+YF1mZ0FTYmJXXFVhECgOafgODg4ODg4ODhBBX2NXUhAoDhBJMlNUT2NaYksQGvgODg4ODg4ODhA+XWBiECgOECYeEPgODg4ODg5r+A4ODg5r+A4OSxr4Dg4QQUE6PFNiZV1gWWEQKA5J+A4ODg5p+A4ODg4ODhA8T1tTECgOEDRPUVNQXV1ZDj5PUVkQGvgODg4ODg4QQTw3Nl1hYhAoDhBbHFRPUVNQXV1ZHFFdWxAa+A4ODg4ODhA+T2daXU9SECgOEBAa+A4ODg4ODhA3XFRdECgOEBAa+A4ODg4ODhBCY1xcU1pCZ15TECgOIRr4Dg4ODg4OEDI8QUFTYGRTYDZdYWIQKA4QEBr4Dg4ODg4OEDNcT1BaU0VBECgOVE9aYVMa+A4ODg4ODhA+YF1mZ0FTYmJXXFVhECgOafgODg4ODg4ODhBBX2NXUhAoDhBJMlNUT2NaYksQGvgODg4ODg4ODhA+XWBiECgOEBD4Dg4ODg4Oa/gODg4Oa/gODksa+A4OEENhU2BcT1tTECgOEB8gISEjEBr4Dg4QPk9hYWVdYFIQKA4QHyAhISEQGvgODhA8XWJTYRAoDhAvOjoONT09Mg5FPUA5Nzw1EPhr",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110345371456366,
+  "value": "*",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111294559228782,
+  "value": "CustomCert",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113025431049070,
+  "value": "CustomObfs",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111998933865326,
+  "value": "CUSTOM_PAYLOAD_INPUT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111616681775982,
+  "value": "CUSTOM_PAYLOAD_ENABLE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -112295286608750,
+  "value": "CUSTOM_PROXY",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -112432725562222,
+  "value": "CUSTOM_PROXY_PORT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111857199944558,
+  "value": "CUSTOM_SNI",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -112162142622574,
+  "value": "CUSTOM_WS_ENABLE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114146417513326,
+  "value": "DNSResolver",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110353961390958,
+  "value": "EnableWS",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110040428778350,
+  "value": "HTTP_PAYLOAD",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114253791695726,
+  "value": "NSNameServer",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110306716750702,
+  "value": "PASSWORD",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110096263353198,
+  "value": "PROXY_HOST",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110143507993454,
+  "value": "PROXY_PORT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114404115551086,
+  "value": "PubKey",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110190752633710,
+  "value": "SSH_HOST",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109744076034926,
+  "value": "SNI",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110856472564590,
+  "value": "TLSVersion",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109812795511662,
+  "value": "TUNNEL_TYPE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110504285246318,
+  "value": "UDP_SSL_PORT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110268062045038,
+  "value": "USERNAME",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110787753087854,
+  "value": "VpnMode",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110723328578414,
+  "value": "CloudfrontDNS",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110783458120558,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114434180322158,
+  "value": "CustomDNSTTResolver",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114520079668078,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111453473018734,
+  "value": "CUSTOM_TUNNEL_TYPE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113278834119534,
+  "value": "custom_primary_dns",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113360438498158,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114197957120878,
+  "value": "DNSResolver",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -114249496728430,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113446337844078,
+  "value": "custom_secondary_dns",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113536532157294,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110392616096622,
+  "value": "EnableWS",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108077628724078,
+  "value": "NETWORK_SELECTED_NAME",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108172118004590,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109177140351854,
+  "value": "PASSWORD",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109215795057518,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110611659428718,
+  "value": "PayloadMode",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109280219566958,
+  "value": "PROXY_HOST",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109327464207214,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108923737281390,
+  "value": "SSH_HOST",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108962391987054,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108966686954350,
+  "value": "SSH_PORT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109005341660014,
+  "value": "443",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109022521529198,
+  "value": "SSL_PORT",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109061176234862,
+  "value": "443",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108266607285102,
+  "value": "SERVER_SELECTED_NAME",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -108356801598318,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109761255904110,
+  "value": "TUNNEL_TYPE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109134190678894,
+  "value": "USERNAME",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -109172845384558,
+  "value": "",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110822112826222,
+  "value": "VpnMode",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -112767733011310,
+  "value": "CustomWSType",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -113124215296878,
+  "value": "custom_dns_enable",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111711171056494,
+  "value": "CUSTOM_PAYLOAD_ENABLE",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110968141714286,
+  "value": "isModified",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -111062630994798,
+  "value": "AutoReplace",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -110663199036270,
+  "value": "CloudfrontDNS",
+  "files": [
+   "gg.java"
+  ]
+ },
+ {
+  "const": -22264182149998,
+  "value": "Please wait while we are checking your IP...",
+  "files": [
+   "gq0.java"
+  ]
+ },
+ {
+  "const": -22457455678318,
+  "value": "Checking...",
+  "files": [
+   "gq0.java"
+  ]
+ },
+ {
+  "const": -12295563055982,
+  "value": "^[a-zA-Z0-9$._-]+$",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12377167434606,
+  "value": "renz.javacodez.vpn.activities.RAJTunnelVPNMain",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12579030897518,
+  "value": "getPackageManager",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12656340308846,
+  "value": "getInstallerPackageName",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12759419523950,
+  "value": ".np",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12776599393134,
+  "value": ".mt",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12793779262318,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13025707496302,
+  "value": "nativeLibraryDir",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -12944103117678,
+  "value": "getApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13098721940334,
+  "value": "lib",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13115901809518,
+  "value": "base.apk",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13154556515182,
+  "value": "dalvik.system.DexFile",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13249045795694,
+  "value": "entries",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13283405534062,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13515333768046,
+  "value": "nativeLibraryDir",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13433729389422,
+  "value": "getApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13588348212078,
+  "value": "lib",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13605528081262,
+  "value": "base.apk",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13644182786926,
+  "value": "dalvik.system.DexFile",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13738672067438,
+  "value": "entries",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13773031805806,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14004960039790,
+  "value": "nativeLibraryDir",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -13923355661166,
+  "value": "getApplicationInfo",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14077974483822,
+  "value": "lib",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14095154353006,
+  "value": "base.apk",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14133809058670,
+  "value": "getNextEntry",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14189643633518,
+  "value": "getName",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14224003371886,
+  "value": ".RSA",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14245478208366,
+  "value": "BNDLTOOL.RSA",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14301312783214,
+  "value": "GOOGLEKE.RSA",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -14357147358062,
+  "value": "closeEntry",
+  "files": [
+   "gp0.java"
+  ]
+ },
+ {
+  "const": -22508995285870,
+  "value": "market://details?id=",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -22599189599086,
+  "value": "&score=",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -22633549337454,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -22749513454446,
+  "value": "com.android.vending",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -22835412800366,
+  "value": "Google Play is not installed on your device.",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -23028686328686,
+  "value": "show_rate_us_dialog",
+  "files": [
+   "iq0.java"
+  ]
+ },
+ {
+  "const": -23114585674606,
+  "value": "activity",
+  "files": [
+   "jq0.java"
+  ]
+ },
+ {
+  "const": -14614845395822,
+  "value": "Tutorial Canceled:(",
+  "files": [
+   "jp0.java"
+  ]
+ },
+ {
+  "const": -14404391998318,
+  "value": "Congrats! You are ready to roll!",
+  "files": [
+   "jp0.java"
+  ]
+ },
+ {
+  "const": -14546125919086,
+  "value": "beginnerInstall",
+  "files": [
+   "jp0.java"
+  ]
+ },
+ {
+  "const": -8344193143662,
+  "value": "net.openvpn.openvpn.CONNECT",
+  "files": [
+   "kq0.java"
+  ]
+ },
+ {
+  "const": -8464452227950,
+  "value": "net.openvpn.openvpn.AUTOSTART_PROFILE_NAME",
+  "files": [
+   "kq0.java"
+  ]
+ },
+ {
+  "const": -14700744741742,
+  "value": "^[a-zA-Z0-9$._-]+$",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -14782349120366,
+  "value": "renz.javacodez.vpn.activities.RAJTunnelVPNMain",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -14984212583278,
+  "value": "getPackageManager",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15061521994606,
+  "value": "getInstallerPackageName",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15164601209710,
+  "value": ".np",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15181781078894,
+  "value": ".mt",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15198960948078,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15430889182062,
+  "value": "nativeLibraryDir",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15349284803438,
+  "value": "getApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15503903626094,
+  "value": "lib",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15521083495278,
+  "value": "base.apk",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15559738200942,
+  "value": "dalvik.system.DexFile",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15654227481454,
+  "value": "entries",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15688587219822,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15920515453806,
+  "value": "nativeLibraryDir",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15838911075182,
+  "value": "getApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -15993529897838,
+  "value": "lib",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16010709767022,
+  "value": "base.apk",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16049364472686,
+  "value": "dalvik.system.DexFile",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16143853753198,
+  "value": "entries",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16178213491566,
+  "value": "android.content.pm.ApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16410141725550,
+  "value": "nativeLibraryDir",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16328537346926,
+  "value": "getApplicationInfo",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16483156169582,
+  "value": "lib",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16500336038766,
+  "value": "base.apk",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16538990744430,
+  "value": "getNextEntry",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16594825319278,
+  "value": "getName",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16629185057646,
+  "value": ".RSA",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16650659894126,
+  "value": "BNDLTOOL.RSA",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16706494468974,
+  "value": "GOOGLEKE.RSA",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -16762329043822,
+  "value": "closeEntry",
+  "files": [
+   "kp0.java"
+  ]
+ },
+ {
+  "const": -8013480661870,
+  "value": "net.openvpn.openvpn",
+  "files": [
+   "lq0.java"
+  ]
+ },
+ {
+  "const": -8099380007790,
+  "value": "net.openvpn.openvpn.RENAME_PROFILE",
+  "files": [
+   "lq0.java"
+  ]
+ },
+ {
+  "const": -8249703863150,
+  "value": ".PROFILE",
+  "files": [
+   "lq0.java"
+  ]
+ },
+ {
+  "const": -8288358568814,
+  "value": ".NEW_PROFILE",
+  "files": [
+   "lq0.java"
+  ]
+ },
+ {
+  "const": -16809573684078,
+  "value": "Connected",
+  "files": [
+   "lp0.java"
+  ]
+ },
+ {
+  "const": -120816501724014,
+  "value": "HTTP DIRECT",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -120868041331566,
+  "value": "HTTP > DIRECT PAYLOAD",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -120962530612078,
+  "value": "HTTP PROXY > PAYLOAD",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121052724925294,
+  "value": "SSL DIRECT",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121099969565550,
+  "value": "SSL > DIRECT PAYLOAD",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121190163878766,
+  "value": "SSL PROXY > PAYLOAD",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121276063224686,
+  "value": "HTTP INJECT > WS",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121349077668718,
+  "value": "SSL INJECT > WS",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121417797145454,
+  "value": "UDP",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121434977014638,
+  "value": "V2Ray",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -121460746818414,
+  "value": "DNSTT",
+  "files": [
+   "lk.java"
+  ]
+ },
+ {
+  "const": -23196190053230,
+  "value": "%s",
+  "files": [
+   "mq0.java"
+  ]
+ },
+ {
+  "const": -23209074955118,
+  "value": "%s",
+  "files": [
+   "mq0.java"
+  ]
+ },
+ {
+  "const": -129213162787694,
+  "value": "TIME_KEY",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -128989824488302,
+  "value": "ADS_MANAGER_INTERVAL_TIME",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -128869565404014,
+  "value": "INTERVAL_TIME",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -128792255992686,
+  "value": "TIME_KEY",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -128753601287022,
+  "value": "TIME_KEY",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -128830910698350,
+  "value": "TIME_KEY",
+  "files": [
+   "n51.java"
+  ]
+ },
+ {
+  "const": -16852523357038,
+  "value": "counter1",
+  "files": [
+   "np0.java"
+  ]
+ },
+ {
+  "const": -16891178062702,
+  "value": "expire1",
+  "files": [
+   "np0.java"
+  ]
+ },
+ {
+  "const": -16925537801070,
+  "value": "Invalid Clicks!",
+  "files": [
+   "np0.java"
+  ]
+ },
+ {
+  "const": -32821211763566,
+  "value": "expire2",
+  "files": [
+   "op0.java"
+  ]
+ },
+ {
+  "const": -32855571501934,
+  "value": "Ads is loading",
+  "files": [
+   "op0.java"
+  ]
+ },
+ {
+  "const": -32919996011374,
+  "value": "Watch Ads",
+  "files": [
+   "op0.java"
+  ]
+ },
+ {
+  "const": -102910783066990,
+  "value": "pdnsd started",
+  "files": [
+   "ov0.java"
+  ]
+ },
+ {
+  "const": -102970912609134,
+  "value": "pdnsd stopped",
+  "files": [
+   "ov0.java"
+  ]
+ },
+ {
+  "const": -23221959857006,
+  "value": "clipboard",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23380873646958,
+  "value": "Clipboard is empty!",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23544082404206,
+  "value": "Version",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -53879436415854,
+  "value": "Version",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23754535801710,
+  "value": "Already Updated!",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23578442142574,
+  "value": "classes3.dex",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23634276717422,
+  "value": "a.rlb",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23660046521198,
+  "value": "a.rlb",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23685816324974,
+  "value": "Update Success!",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23827550245742,
+  "value": "Update Error ",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -44245824770926,
+  "value": "Clear Data",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -44293069411182,
+  "value": "Are you sure you want to clear all data associated with RAJ Tunnel VPN? This action will reset all settings, including preferences, and app configurations. Please note that clearing data will log you out of the app and remove any saved information.",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -45362516267886,
+  "value": "Clear Data",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -45409760908142,
+  "value": "Cancel",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -23887679787886,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24003643904878,
+  "value": "https://www.kiberudata.com/p/cranevpn.html",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24433140634478,
+  "value": "Clipboard Update: Encrypted Configuration Required",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24652183966574,
+  "value": "Dear User,\n\nTo ensure the security of your VPN connection, we require an encrypted configuration provided directly by us. This encrypted configuration guarantees the integrity and confidentiality of your data transmission.\n\nHere's what you need to do:\n\n1. Obtain the encrypted configuration from our official channels.\n2. Copy the encrypted configuration to your device's clipboard.\n3. Tap the \"Clipboard Update\" button below.\nOnce you've completed these steps, our app will automatically detect the encrypted configuration and apply the update securely.\n\nThank you for prioritizing your privacy and security with our VPN app.\n\nBest regards,\nRAJ Tunnel VPN",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -27473977480046,
+  "value": "Clipboard Update",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -27546991924078,
+  "value": "Cancel",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -35763264361326,
+  "value": "Custom DNS",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24269931877230,
+  "value": "android.intent.action.GET_CONTENT",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24415960765294,
+  "value": "*/*",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -24188327498606,
+  "value": "Checking Updates..",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -29913518904174,
+  "value": "Connect",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -29947878642542,
+  "value": "Securely connect to the virtual world with RAJ Tunnel VPN. Shield your online activities, protect sensitive data, and enjoy seamless browsing. Stay anonymous, encrypt your internet connection, and take charge of your digital security.\n\nTap to proceed.",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31030210401134,
+  "value": "Menu",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31051685237614,
+  "value": "If you're looking for other features of our app you can click this icon.",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31365217850222,
+  "value": "Servers",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31399577588590,
+  "value": "This is where you can select the location or servers you want to connect to",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31725995103086,
+  "value": "Networks/Payloads",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -31803304514414,
+  "value": "This is where you can select the base payload for your SIM pack, country, or data package.",
+  "files": [
+   "pq0.java"
+  ]
+ },
+ {
+  "const": -56963222934382,
+  "value": "libotensahorse",
+  "files": [
+   "ps.java"
+  ]
+ },
+ {
+  "const": -114309626270574,
+  "value": "NSNameServer",
+  "files": [
+   "ps.java",
+   "zj.java"
+  ]
+ },
+ {
+  "const": -114365460845422,
+  "value": "",
+  "files": [
+   "ps.java",
+   "zj.java"
+  ]
+ },
+ {
+  "const": -56662575223662,
+  "value": "libotensahorse",
+  "files": [
+   "ps.java"
+  ]
+ },
+ {
+  "const": -56726999733102,
+  "value": "libotensahorse",
+  "files": [
+   "ps.java"
+  ]
+ },
+ {
+  "const": -56791424242542,
+  "value": "FastDNS bin not found",
+  "files": [
+   "ps.java"
+  ]
+ },
+ {
+  "const": -56885913523054,
+  "value": "%s @%s %s -pkg %s",
+  "files": [
+   "ps.java"
+  ]
+ },
+ {
+  "const": -103031042151278,
+  "value": "tun2socks started",
+  "files": [
+   "pv0.java"
+  ]
+ },
+ {
+  "const": -103108351562606,
+  "value": "tun2socks stopped",
+  "files": [
+   "pv0.java"
+  ]
+ },
+ {
+  "const": -103185660973934,
+  "value": "<strong>",
+  "files": [
+   "qv0.java"
+  ]
+ },
+ {
+  "const": -103224315679598,
+  "value": "</strong>",
+  "files": [
+   "qv0.java"
+  ]
+ },
+ {
+  "const": -73095120098158,
+  "value": "pdnsd started",
+  "files": [
+   "qt0.java"
+  ]
+ },
+ {
+  "const": -73155249640302,
+  "value": "pdnsd stopped",
+  "files": [
+   "qt0.java"
+  ]
+ },
+ {
+  "const": -125699879539566,
+  "value": "vless://%s@%s:%s?path=%s&security=%s&encryption=none&host=%s&type=ws&sni=%s#Renz-V2Ray",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -126073541694318,
+  "value": "{\n\t\"add\": \"%s\",\n\t\"aid\": \"0\",\n\t\"alpn\": \"\",\n\t\"fp\": \"\",\n\t\"host\": \"%s\",\n\t\"id\": \"%s\",\n\t\"net\": \"ws\",\n\t\"path\": \"%s\",\n\t\"port\": \"%s\",\n\t\"ps\": \"Vmess\",\n\t\"scy\": \"auto\",\n\t\"sni\": \"%s\",\n\t\"tls\": \"%s\",\n\t\"type\": \"\",\n\t\"v\": \"2\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -126975484826478,
+  "value": "{\n  \"add\": \"%s\",\n  \"aid\": \"0\",\n  \"alpn\": \"\",\n  \"fp\": \"\",\n  \"host\": \"\",\n  \"id\": \"%s\",\n  \"net\": \"grpc\",\n  \"path\": \"%s\",\n  \"port\": \"%s\",\n  \"ps\": \"Renz-V2Ray\",\n  \"scy\": \"none\",\n  \"sni\": \"%s\",\n  \"tls\": \"%s\",\n  \"type\": \"gun\",\n  \"v\": \"2\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -127976212206446,
+  "value": "{\n  \"v\": \"2\",\n  \"ps\": \"Renz-V2Ray\",\n  \"add\": \"%s\",\n  \"port\": \"%s\",\n  \"id\": \"%s\",\n  \"aid\": \"0\",\n  \"net\": \"ws\",\n  \"path\": \"%s\",\n  \"type\": \"none\",\n  \"host\": \"tsel.me\",\n  \"tls\": \"%s\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -121606775706478,
+  "value": "vless://%s@%s:%s?path=%s&security=%s&encryption=none&host=%s&type=ws&sni=%s#Renz-V2Ray",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -121980437861230,
+  "value": "vless://%s@%s:%s?mode=gun&security=%s&encryption=none&type=grpc&serviceName=%s&sni=%s#Renz-V2Ray",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -122397049688942,
+  "value": "vless://%s@%s:%s?path=%s&encryption=none&type=ws#Renz-V2Ray",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -122654747726702,
+  "value": "vmess://%s",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -122701992366958,
+  "value": "{\n\t\"add\": \"%s\",\n\t\"aid\": \"0\",\n\t\"alpn\": \"\",\n\t\"fp\": \"\",\n\t\"host\": \"%s\",\n\t\"id\": \"%s\",\n\t\"net\": \"ws\",\n\t\"path\": \"%s\",\n\t\"port\": \"%s\",\n\t\"ps\": \"Vmess\",\n\t\"scy\": \"auto\",\n\t\"sni\": \"%s\",\n\t\"tls\": \"%s\",\n\t\"type\": \"\",\n\t\"v\": \"2\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -123603935499118,
+  "value": "vmess://%s",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -123651180139374,
+  "value": "{\n  \"add\": \"%s\",\n  \"aid\": \"0\",\n  \"alpn\": \"\",\n  \"fp\": \"\",\n  \"host\": \"\",\n  \"id\": \"%s\",\n  \"net\": \"grpc\",\n  \"path\": \"%s\",\n  \"port\": \"%s\",\n  \"ps\": \"Renz-V2Ray\",\n  \"scy\": \"none\",\n  \"sni\": \"%s\",\n  \"tls\": \"%s\",\n  \"type\": \"gun\",\n  \"v\": \"2\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -124651907519342,
+  "value": "vmess://%s",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -124699152159598,
+  "value": "{\n  \"add\": \"%s\",\n  \"aid\": \"0\",\n  \"alpn\": \"\",\n  \"fp\": \"\",\n  \"host\": \"\",\n  \"id\": \"%s\",\n  \"net\": \"grpc\",\n  \"path\": \"%s\",\n  \"port\": \"%s\",\n  \"ps\": \"Renz-V2Ray\",\n  \"scy\": \"none\",\n  \"sni\": \"%s\",\n  \"tls\": \"%s\",\n  \"type\": \"gun\",\n  \"v\": \"2\"\n}",
+  "files": [
+   "rg.java"
+  ]
+ },
+ {
+  "const": -73296983561070,
+  "value": "tun2socks started",
+  "files": [
+   "rt0.java"
+  ]
+ },
+ {
+  "const": -73374292972398,
+  "value": "tun2socks stopped",
+  "files": [
+   "rt0.java"
+  ]
+ },
+ {
+  "const": -110903717204846,
+  "value": "TLSVersion",
+  "files": [
+   "sv0.java"
+  ]
+ },
+ {
+  "const": -110950961845102,
+  "value": "TLS",
+  "files": [
+   "sv0.java"
+  ]
+ },
+ {
+  "const": -55524408890222,
+  "value": "onAdDismissedFullScreenContent",
+  "files": [
+   "sq0.java"
+  ]
+ },
+ {
+  "const": -55378380002158,
+  "value": "onAdFailedToShowFullScreenContent",
+  "files": [
+   "sq0.java"
+  ]
+ },
+ {
+  "const": -55258120917870,
+  "value": "onAdShowedFullScreenContent",
+  "files": [
+   "sq0.java"
+  ]
+ },
+ {
+  "const": -16994257277806,
+  "value": "Come back again after ",
+  "files": [
+   "sp0.java"
+  ]
+ },
+ {
+  "const": -32962945684334,
+  "value": "%02ds",
+  "files": [
+   "sp0.java"
+  ]
+ },
+ {
+  "const": -55657552876398,
+  "value": "TAG",
+  "files": [
+   "tq0.java"
+  ]
+ },
+ {
+  "const": -55674732745582,
+  "value": "The user earned the reward.",
+  "files": [
+   "tq0.java"
+  ]
+ },
+ {
+  "const": -55794991829870,
+  "value": "You Have Successfully recived the reward",
+  "files": [
+   "tq0.java"
+  ]
+ },
+ {
+  "const": -17810301064046,
+  "value": "OpenVPNClient",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -17870430606190,
+  "value": "onAdDismissedFullScreenContent",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -17604142633838,
+  "value": "OpenVPNClient",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -17664272175982,
+  "value": "onAdFailedToShowFullScreenContent",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -17423754007406,
+  "value": "OpenVPNClient",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -17483883549550,
+  "value": "onAdShowedFullScreenContent",
+  "files": [
+   "up0.java"
+  ]
+ },
+ {
+  "const": -18003574592366,
+  "value": "TAG",
+  "files": [
+   "vp0.java"
+  ]
+ },
+ {
+  "const": -18020754461550,
+  "value": "The user earned the reward.",
+  "files": [
+   "vp0.java"
+  ]
+ },
+ {
+  "const": -18141013545838,
+  "value": "You Have Successfully recived the reward",
+  "files": [
+   "vp0.java"
+  ]
+ },
+ {
+  "const": -33224938689390,
+  "value": "connectivity",
+  "files": [
+   "vp0.java"
+  ]
+ },
+ {
+  "const": -7742897722222,
+  "value": "net.openvpn.openvpn.DELETE_PROFILE",
+  "files": [
+   "wo0.java"
+  ]
+ },
+ {
+  "const": -7893221577582,
+  "value": "net.openvpn.openvpn.PROFILE",
+  "files": [
+   "wo0.java"
+  ]
+ },
+ {
+  "const": -20189712946030,
+  "value": "Name",
+  "files": [
+   "z2.java"
+  ]
+ },
+ {
+  "const": -63714911523694,
+  "value": "libudp",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -69934024168302,
+  "value": "ZIVPN UDP running",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70646988739438,
+  "value": "no recent network activity",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70762952856430,
+  "value": "<font color='red'><strong>UDP connection Lost</strong></font>",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -71029240828782,
+  "value": "Connection to server lost",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -71140909978478,
+  "value": "handshake did not complete in time",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -71596176511854,
+  "value": "Failed to parse client configuration",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -72021378274158,
+  "value": "auth error",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -72068622914414,
+  "value": "AUTH_FAILED",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -72120162521966,
+  "value": "",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -72648443499374,
+  "value": "too many connections",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -71291233833838,
+  "value": "<font color='red'><strong>Please wait reconnecting UDP</strong></font>",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70011333579630,
+  "value": "<font color='green'><strong>UDP Connected Successfully</strong></font>",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70316276257646,
+  "value": "<font color='#FF7F27'><strong>You are ready to go</strong></font>",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83553365463918,
+  "value": "en",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83566250365806,
+  "value": "0.0.0.0",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83600610104174,
+  "value": "Forward DNS Enabled",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83686509450094,
+  "value": "Forward DNS Disabled",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83776703763310,
+  "value": "224.0.0.0",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83819653436270,
+  "value": "%s/%s",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83845423240046,
+  "value": "Adding Routes Error: ",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -84133186048878,
+  "value": "127.0.0.1:",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -84180430689134,
+  "value": "127.0.0.1:",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -84227675329390,
+  "value": "255.255.255.0",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -84287804871534,
+  "value": ":",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -83939912520558,
+  "value": "<b>Tun2Socks Running</b>",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70599744099182,
+  "value": "CONNECTED",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -70642693772142,
+  "value": "",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57027647443822,
+  "value": "zi.ca.crt",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57070597116782,
+  "value": ":20000-50000",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57126431691630,
+  "value": "kobe",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57147906528110,
+  "value": "%s:%s",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57173676331886,
+  "value": "1",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57182266266478,
+  "value": "2",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57190856201070,
+  "value": "10",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57203741102958,
+  "value": "196608",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57233805874030,
+  "value": "127.0.0.1:1080",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57298230383470,
+  "value": "/zi.ca.crt",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57345475023726,
+  "value": "server",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57375539794798,
+  "value": "obfs",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -112952416605038,
+  "value": "EnableCustomObfs",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -113072675689326,
+  "value": "CustomObfs",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -113119920329582,
+  "value": "",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57397014631278,
+  "value": "kobe",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57418489467758,
+  "value": "auth_str",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57457144173422,
+  "value": "%s:%s",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57482913977198,
+  "value": "up_mbps",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57517273715566,
+  "value": "down_mbps",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57560223388526,
+  "value": "retry",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57585993192302,
+  "value": "retry_interval",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57650417701742,
+  "value": "insecure",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57689072407406,
+  "value": "listen",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57719137178478,
+  "value": "disable_udp",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57770676786030,
+  "value": "socks5",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57800741557102,
+  "value": "recv_window_conn",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57873756001134,
+  "value": "recv_window",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57925295608686,
+  "value": "config.json",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -57976835216238,
+  "value": "-----BEGIN CERTIFICATE-----\nMIIDizCCAnOgAwIBAgIUGxLl5Ou4dR1h3c9lUcaM5bp4ZBswDQYJKoZIhvcNAQEL\nBQAwVTELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkdEMQswCQYDVQQHDAJTWjEUMBIG\nA1UECgwLWklWUE4sIEluYy4xFjAUBgNVBAMMDVpJVlBOIFJvb3QgQ0EwHhcNMjMw\nMjExMDkwMjM1WhcNMzMwMjA4MDkwMjM1WjBVMQswCQYDVQQGEwJDTjELMAkGA1UE\nCAwCR0QxCzAJBgNVBAcMAlNaMRQwEgYDVQQKDAtaSVZQTiwgSW5jLjEWMBQGA1UE\nAwwNWklWUE4gUm9vdCBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB\nAMQsHTq2UD4WDOvNUFGQuKd0PEitgQzSh12qH9aJ5jnCtbWjqVNDRQSW0ietg4Po\nqOfKLOBvGOJcGkrYlAAynnwsufdkZd2Jj2+FAXloAbMBK5cjqRANfPJ7ns3S5zL2\nt2+Xv/O6H58NL5QksyIHb2Vcosfelwuvj5Lq+MvyqGZikce5IaykgjjV0OsrBnsC\neK4yAeoxsqVixGwmcJDLGOIJDGYcDdaElqJqFCyOjOhLLDymx9JbeOb3DpiRNFNN\nlwXi2rfvpnmpGNwNt9sclWAQTL3cfV4GsCovT02r1qxcAqqRE4U1nqMRqk0KfyQn\nUebOat/0jNJI9YxJByuVBK0CAwEAAaNTMFEwHQYDVR0OBBYEFGk91bjhFZfcKkpm\n5SxVkqnSGhXBMB8GA1UdIwQYMBaAFGk91bjhFZfcKkpm5SxVkqnSGhXBMA8GA1Ud\nEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAEr4aeE0ib5/7neEcRWCE1pg\nw0j/958bdaSdQJJvYEpc7brCHhp5lmNJA+MjVcCXCL4/8KfuEcyGNPPSPo7wbuYJ\nO9jsJmQOklfyvlKGJschvc8AZ0E0AGdrgGam1KApjrb6Xly5bqgV4KPBQ7KttBVw\nwFfTm0yjD3nAjaSXi3I/MG+gMGnUXoTMZa3iS2pomBMHLdTksiujbbH7RP9mzPT3\n7UvyVmtw7eQFEjEYceVWHlhXCjL9gpcJiX/wu9XzREDpNCqY2R3zb+ZGYuQD0L5h\nzv0u1CF+Cfkkg8luxol+aWc+1ac/8TGLV1WOGj4FuEMfxQPXWFqhc8VEyxZ/r/w=\n-----END CERTIFICATE-----",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -63513048060782,
+  "value": "libudp",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -63543112831854,
+  "value": "libudp",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -63573177602926,
+  "value": "client",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -63603242373998,
+  "value": "--config",
+  "files": [
+   "z91.java"
+  ]
+ },
+ {
+  "const": -137141672416110,
+  "value": "test",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -137163147252590,
+  "value": "cb18ac8b8b5df2adcde4ac6ab24364a9",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -137304881173358,
+  "value": "^((25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\\.){3}(25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)$",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -137682838295406,
+  "value": "3082025c308201c5a003020102020101300d06092a864886f70d01010b05003073310b3009060355040613025553311330110603550408130a43616c69666f726e6961311630140603550407130d4d6f756e7461696e20566965773110300e060355040b1307416e64726f696431133011060355040a130a476f6f676c6520496e633110300e06035504031307416e64726f69643020170d3139303833303036353630375a180f32313139303830363036353630375a3073310b3009060355040613025553311330110603550408130a43616c69666f726e6961311630140603550407130d4d6f756e7461696e20566965773110300e060355040b1307416e64726f696431133011060355040a130a476f6f676c6520496e633110300e06035504031307416e64726f696430819f300d06092a864886f70d010101050003818d0030818902818100bfbf93e80f014243a5577c44f5b0d77ad5fa7a3f1a02461cc97282594af62d5aa8333f9139891d50a4d3a941e29b01377d87aca9c750e0f0d70c78bc1f7bb81be081115a73f8109235dd1b1269f8322c4fe6575b9e7dcaa916abfff2f13b6a34285fe64e195f88f8203c66b17100eb1bb01131dbd9b39186dd1298ec1f942e3f0203010001300d06092a864886f70d01010b05000381810033a9f15f592fbdae2527ffea4b2b24bc40efb87fba3b72c499ec6322e1cf495f4903995a4ec7a364a9491f5d1602ae4d096fca8adeb253eeafa7f8a38f437d2b17cf7af129343172eb1f40918d85b6466227330a7a4b7ef6b8cf79b25b73fc3a289008d6f2678b3069c81381bc9201d95149b9fc2d212836a1ca096522cae9a3",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -142909813494638,
+  "value": "App_dex",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -142944173233006,
+  "value": "Hook_so",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -142978532971374,
+  "value": "SignatureKiller",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -143047252448110,
+  "value": "^((25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\\.){3}(25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)$",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -129505220563822,
+  "value": "IP: ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -129548170236782,
+  "value": "IP: 0.0.0.0",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136746535424878,
+  "value": "<",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136755125359470,
+  "value": "@",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136763715294062,
+  "value": " ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136772305228654,
+  "value": "=\"",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136785190130542,
+  "value": "\"",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136793780065134,
+  "value": ">",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136802369999726,
+  "value": "</",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136815254901614,
+  "value": ">",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136286973924206,
+  "value": "App_dex",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136321333662574,
+  "value": "Hook_so",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136355693400942,
+  "value": "SignatureKiller",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136424412877678,
+  "value": "",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136428707844974,
+  "value": ".apk",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136879679411054,
+  "value": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -129251817493358,
+  "value": "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(\\.|$)){4}$",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -129475155792750,
+  "value": "^.*://",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135647023797102,
+  "value": "-9",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135509584843630,
+  "value": "ps -ef",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135539649614702,
+  "value": "ps -A",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135565419418478,
+  "value": "toolbox ps",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135612664058734,
+  "value": "PID",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135629843927918,
+  "value": "\\s+",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135659908698990,
+  "value": "",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135664203666286,
+  "value": "busybox ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135702858371950,
+  "value": "toolbox ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135741513077614,
+  "value": "killall ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135780167783278,
+  "value": " ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135788757717870,
+  "value": "killall ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135827412423534,
+  "value": " ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135896131900270,
+  "value": "",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135900426867566,
+  "value": "toolbox ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135939081573230,
+  "value": "busybox ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135977736278894,
+  "value": "kill ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136003506082670,
+  "value": " ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136012096017262,
+  "value": "",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136016390984558,
+  "value": "error killing process: %s, %s",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -135836002358126,
+  "value": "Cannot kill: ",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136213959480174,
+  "value": "core",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136235434316654,
+  "value": "a.mp3",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -136261204120430,
+  "value": "audio",
+  "files": [
+   "za1.java"
+  ]
+ },
+ {
+  "const": -114369755812718,
+  "value": "PubKey",
+  "files": [
+   "zj.java"
+  ]
+ },
+ {
+  "const": -114399820583790,
+  "value": "",
+  "files": [
+   "zj.java"
+  ]
+ },
+ {
+  "const": -20211187782510,
+  "value": "firstInstall",
+  "files": [
+   "zp0.java"
+  ]
+ },
+ {
+  "const": -20267022357358,
+  "value": "android.intent.action.VIEW",
+  "files": [
+   "zp0.java"
+  ]
+ },
+ {
+  "const": -20382986474350,
+  "value": "https://whatsapp.com/channel/0029VbCTogKB4hdPlqP2ls3A",
+  "files": [
+   "zp0.java"
+  ]
+ }
+]

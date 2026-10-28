@@ -1,0 +1,45 @@
+{
+ "Version": "1.0",
+ "Servers": [
+  {
+   "Name": "Please update config first",
+   "ServerIPHost": "0.0.0.0",
+   "Subname": "Please update config first",
+   "OpenVPNTCPPort": "g/vp3FdJPvxQUZl8lu16Nw==",
+   "OpenVPNSSLPort": "443",
+   "Protocol": 0,
+   "CloudfrontDNS": "",
+   "ServerHTTP": "",
+   "flag": "xx",
+   "UDPMode": 0,
+   "Obfs": "",
+   "Username": "",
+   "Password": "",
+   "UseCustomCert": false,
+   "CustomCert": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "Please update config first",
+   "SNIHost": "",
+   "Payload": "",
+   "Info": "Please update config first",
+   "TunnelType": 0,
+   "DNSServerHost": "",
+   "DNSResolver": "",
+   "AutoReplace": true,
+   "TLSVersion": "Default",
+   "EnableWS": false,
+   "PayloadMode": 0,
+   "ProxySettings": {
+    "Squid": "[Default]",
+    "Port": ""
+   }
+  }
+ ],
+ "SSLNetworks": [],
+ "Username": "ewgweg",
+ "Password": "weghwerhw",
+ "Notes": ""
+}

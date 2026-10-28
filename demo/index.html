@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>RAJ Tunnel VPN · 配置解密 / 测活 / 压测 Demo</title>
+<style>
+  :root{--bg:#0b0f14;--panel:#121922;--line:#1e2a36;--txt:#d7e2ec;--dim:#7d8fa1;--ok:#31c48d;--bad:#f05252;--accent:#4e9af1}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.55 ui-monospace,SFMono-Regular,Consolas,monospace}
+  header{padding:20px 24px;border-bottom:1px solid var(--line)}
+  h1{margin:0 0 6px;font-size:17px;letter-spacing:.3px}
+  h2{margin:0 0 12px;font-size:14px;color:var(--accent)}
+  .meta{color:var(--dim);font-size:12px;word-break:break-all}
+  main{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:16px 24px 40px}
+  section{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px}
+  section.wide{grid-column:1/-1}
+  textarea{width:100%;height:110px;background:#0a141c;color:var(--txt);border:1px solid var(--line);border-radius:6px;padding:8px;font:12px/1.5 ui-monospace,monospace;resize:vertical}
+  button{background:#1b2836;color:var(--txt);border:1px solid #2a3a4b;border-radius:6px;padding:7px 14px;cursor:pointer;font:13px ui-monospace,monospace}
+  button:hover{border-color:var(--accent);color:#fff}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  input{background:#0a141c;color:var(--txt);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:80px;font:13px ui-monospace,monospace}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0}
+  table{width:100%;border-collapse:collapse;font-size:12px}
+  th,td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+  th{color:var(--dim);font-weight:500}
+  .ok{color:var(--ok)}.bad{color:var(--bad)}.dim{color:var(--dim)}
+  pre{background:#0a141c;border:1px solid var(--line);border-radius:6px;padding:10px;overflow:auto;max-height:260px;font-size:12px;margin:0}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
+  .stat{background:#0a141c;border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+  .stat b{display:block;font-size:16px;color:#fff}
+  .stat span{color:var(--dim);font-size:11px}
+</style>
+</head>
+<body>
+<header>
+  <h1>RAJ Tunnel VPN 1.5 · 配置解密 / 测活 / 压测</h1>
+  <div class="meta" id="meta">myKey / sha256 加载中…</div>
+</header>
+
+<main>
+  <section>
+    <h2>1. 内置配置（res/raw/servers）</h2>
+    <div class="row">
+      <button id="btnBuiltin">解密内置配置</button>
+      <span class="dim">三层：base64 → AES-128-CBC → XXTEA</span>
+    </div>
+    <pre id="builtinOut" class="dim">未加载</pre>
+  </section>
+
+  <section>
+    <h2>2. 粘贴任意该家族 servers 配置</h2>
+    <textarea id="blob" placeholder="粘贴 base64 配置串…"></textarea>
+    <div class="row"><button id="btnDecrypt">解密</button><span class="dim" id="decNote"></span></div>
+    <pre id="pasteOut" class="dim">未加载</pre>
+  </section>
+
+  <section class="wide">
+    <h2>3. 节点清单</h2>
+    <table id="nodeTable"><thead><tr><th>组</th><th>名称</th><th>Host</th><th>Port</th><th>SSL</th><th>Flag</th></tr></thead><tbody></tbody></table>
+  </section>
+
+  <section class="wide">
+    <h2>4. 测活 + 压测（TCP 握手）</h2>
+    <div class="row">
+      <button id="btnProbe">测活（串行）</button>
+      <label class="dim">并发 <input id="workers" value="32"></label>
+      <label class="dim">轮次 <input id="rounds" value="3"></label>
+      <label class="dim">超时 <input id="timeout" value="3"> 秒</label>
+      <button id="btnBench">开始压测</button>
+    </div>
+    <div class="stats" id="stats"></div>
+    <table id="probeTable"><thead><tr><th>Host</th><th>Port</th><th>结果</th><th>耗时 ms</th><th>错误</th></tr></thead><tbody></tbody></table>
+  </section>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+let NODES = [];
+
+const fmt = (o) => JSON.stringify(o, null, 1);
+
+async function post(path, body) {
+  const res = await fetch(path, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body || {})});
+  const data = await res.json();
+  if (!res.ok) throw new Error(data.error || res.status);
+  return data;
+}
+
+function renderNodes(nodes) {
+  NODES = nodes || [];
+  const tb = $('nodeTable').querySelector('tbody');
+  tb.innerHTML = NODES.map(n => `<tr>
+    <td class="dim">${n.group}</td><td>${n.name || ''}</td>
+    <td>${n.host || '<span class="bad">(空)</span>'}</td><td>${n.port || ''}</td>
+    <td>${n.ssl_port || ''}</td><td>${n.flag || ''}</td></tr>`).join('');
+}
+
+function renderStats(s) {
+  if (!s) return;
+  const cell = (label, val) => `<div class="stat"><b>${val ?? '-'}</b><span>${label}</span></div>`;
+  $('stats').innerHTML =
+    cell('尝试次数', s.attempts) + cell('存活', s.alive) + cell('存活率 %', s.alive_rate) +
+    cell('P50 ms', s.p50_ms) + cell('P95 ms', s.p95_ms) + cell('P99 ms', s.p99_ms) +
+    cell('耗时 s', s.elapsed_s) + cell('连接/秒', s.conn_per_s);
+}
+
+function renderProbe(results) {
+  const tb = $('probeTable').querySelector('tbody');
+  tb.innerHTML = results.map(r => `<tr>
+    <td>${r.host}</td><td>${r.port}</td>
+    <td class="${r.alive ? 'ok' : 'bad'}">${r.alive ? 'alive' : 'dead'}</td>
+    <td>${r.ms}</td><td class="dim">${r.error || ''}</td></tr>`).join('');
+}
+
+$('btnBuiltin').onclick = async () => {
+  $('builtinOut').textContent = '解密中…';
+  try {
+    const d = await (await fetch('/api/builtin')).json();
+    $('meta').textContent = `myKey = ${d.mykey}   |   sha256(myKey) = ${d.sha256}`;
+    $('builtinOut').textContent = fmt(d.config);
+    renderNodes(d.nodes);
+  } catch (e) { $('builtinOut').textContent = '失败: ' + e.message; }
+};
+
+$('btnDecrypt').onclick = async () => {
+  $('decNote').textContent = '';
+  try {
+    const d = await post('/api/decrypt', {blob: $('blob').value});
+    $('pasteOut').textContent = fmt(d.config);
+    renderNodes(d.nodes);
+    $('decNote').textContent = `服务器 ${d.config.Servers?.length || 0} / 网络 ${d.config.Networks?.length || 0}`;
+  } catch (e) { $('pasteOut').textContent = '失败: ' + e.message; }
+};
+
+$('btnProbe').onclick = async () => {
+  try {
+    const d = await post('/api/probe', {nodes: NODES, timeout: Number($('timeout').value)});
+    renderProbe(d.results);
+    renderStats(d.summary);
+  } catch (e) { renderProbe([]); renderStats(null); alert(e.message); }
+};
+
+$('btnBench').onclick = async () => {
+  $('btnBench').disabled = true; $('btnBench').textContent = '压测中…';
+  try {
+    const d = await post('/api/bench', {
+      nodes: NODES, workers: Number($('workers').value),
+      rounds: Number($('rounds').value), timeout: Number($('timeout').value)
+    });
+    renderStats(d);
+  } catch (e) { alert(e.message); }
+  $('btnBench').disabled = false; $('btnBench').textContent = '开始压测';
+};
+</script>
+</body>
+</html>
