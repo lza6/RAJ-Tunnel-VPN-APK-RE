@@ -24,7 +24,11 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'
 import raj_decrypt as rd  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BUILTIN_BLOB = os.path.join(HERE, '..', 'apktool_out', 'res', 'raw', 'd.js')
+# 仓库内自带占位符样本；本地逆向工作区若有 apktool_out 则优先生用它
+BUILTIN_BLOB = next((p for p in (
+    os.path.join(HERE, '..', 'apktool_out', 'res', 'raw', 'd.js'),
+    os.path.join(HERE, '..', 'samples', 'blob_1.5.txt'),
+) if os.path.exists(p)), os.path.join(HERE, '..', 'samples', 'blob_1.5.txt'))
 PORT = int(os.environ.get('RAJ_PORT', '8960'))
 
 

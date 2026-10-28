@@ -9,6 +9,7 @@ Round-trip verified against the shipped blob in res/raw/servers (see self-test).
 """
 import base64
 import json
+import os
 import struct
 import sys
 
@@ -54,7 +55,8 @@ def pack_text(plain_text):
 
 
 def self_test():
-    blob = open('../apktool_out/res/raw/d.js', encoding='utf-8').read()
+    here = os.path.dirname(os.path.abspath(__file__))
+    blob = open(os.path.join(here, '..', 'samples', 'blob_1.5.txt'), encoding='utf-8').read()
     _aes, plain = decrypt_text(blob)
     # re-pack the exact plaintext the app would store
     repacked = pack_text(plain.decode('utf-8'))
